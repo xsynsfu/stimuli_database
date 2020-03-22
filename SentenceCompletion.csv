@@ -1,0 +1,74 @@
+﻿Item,ID,LatinSquare,factor1,factor2,Sentence
+f01,f01,f,filler,intransitive,"It was late Friday afternoon. At the theatre, the old man who was holding a glass of coke shivered"
+f02,f02,f,filler,intransitive,"The restaurant was full of customers.  At the kitchen, the old man who was wearing a jacket laughed"
+f03,f03,f,filler,intransitive,"It was sunny and warm outside.  At the beach, the old man who was wearing a hat slept"
+f04,f04,f,filler,intransitive,"Farm life is always busy. At the dairy farm, the old man who was wearing a wig died"
+f05,f05,f,filler,intransitive,"It was perfect weather for water sports. At the sport shop, the old man who was wearing a helmet stood"
+f06,f06,f,filler,intransitive,"The local market was full of people. At the nut store, the old man who was wearing jeans lied"
+f07,f07,f,filler,intransitive,"It was a rainy day. In the kitchen, the young boy who was putting away a big pot coughed"
+f08,f08,f,filler,intransitive,"It was a hot summer day in August. At the swimming pool, the young boy who was wearing a hat sneezed"
+f09,f09,f,filler,intransitive,"The house was full of people celebrating Christmas. In the kitchen, the young boy who was humming a carol smiled"
+f10,f10,f,filler,intransitive,"Camping is lots of fun. At the fire pit, the young boy who was wearing a jacket arrived"
+f11,f11,f,filler,intransitive,"The post office was crowded before Christmas. At the front desk, the young boy who was holding a present frowned"
+f12,f12,f,filler,intransitive,"The kitchen was getting very hot. At the stove, the young boy who was making spaghetti scowled"
+f13,f13,f,filler,transitive,"It was a lazy Sunday morning at the retirement home. On the new stereo system, the old woman who was wearing a scarf entertained"
+f14,f14,f,filler,transitive,"The community was getting ready for Halloween. To decorate the front porch, the old woman who was sitting by the stove surprised"
+f15,f15,f,filler,transitive,"It was a busy day at the newstation before the big TV interview. At the cafeteria, the old woman who was holding a microphone kept"
+f16,f16,f,filler,transitive,"It was a very cold day in December. In the living room, the old woman who was sitting by the fireplace avoided"
+f17,f17,f,filler,transitive,It had been a very long day at work. In the messy bathroom the old woman who was wearing slippers noticed
+f18,f18,f,filler,transitive,"It was a hot summer day. At the library, the old woman who was playing with a toy robot improved"
+f19,f19,f,filler,transitive,"It was getting dark outside. At the toy shop, the young girl who was holding a purse underestimated"
+f20,f20,f,filler,transitive,"It was about to rain. At the beach, the young girl who was wearing a bikini unloaded"
+f21,f21,f,filler,transitive,"Dealing with rude customers all day had been exhausting. In the main hall, the young girl who was setting the table irritated"
+f22,f22,f,filler,transitive,"Today was the hottest day of the year. At the sink, the young girl who was washing the dishes handled"
+f23,f23,f,filler,transitive,"The injury count at work was increasing rapidly. In the kitchen, the young girl who was holding a tea pot poisoned"
+f24,f24,f,filler,transitive,"The new season had finally come in. At the studio, the young girl who was drawing flowers satisfied"
+b01,b01a,a,trial,doublematch,School had just gotten out for the day. The young boy was waiting outside the corner shop. He watched as the old man who was wearing a hat bought
+b01,b01b,b,trial,singlematch,School had just gotten out for the day. The young girl was waiting outside the corner shop. She watched as the old man who was wearing a hat bought 
+b02,b02d,a,trial,singlematch,Everyone was starting to get hungry. The young girl was laying the dinner table. She asked whether the old man who was holding a cup could fetch
+b02,b02a,b,trial,doublematch,Everyone was starting to get hungry. The young boy was laying the dinner table. He asked whether the old man who was holding a cup could fetch
+b03,b03c,a,trial,doublematch,It was the first day of Summer vacation.  The young boy was spending a day at the beach. He was amazed to see that the old man who was carrying a bucket had built 
+b03,b03d,b,trial,singlematch,It was the first day of Summer vacation.  The young girl was spending a day at the beach. She was amazed to see that the old man who was carrying a bucket had built 
+b04,b04b,a,trial,singlematch,It is interesting to learn how food is made. The young girl was visiting a dairy farm. She watched as the old man who was sitting on a stool made
+b04,b04c,b,trial,doublematch,It is interesting to learn how food is made. The young boy was visiting a dairy farm. He watched as the old man who was sitting on a stool made
+b05,b05a,a,trial,doublematch,Extracurricular activities can be a lot of fun. The young boy was very interested in water sports. He wondered whether the old man who was reading a magazine had bought
+b05,b05b,b,trial,singlematch,Extracurricular activities can be a lot of fun. The young girl was very interested in water sports. She wondered whether the old man who was reading a magazine had bought 
+b06,b06d,a,trial,singlematch,Dinner would not be ready for a while. The young girl was feeling a little peckish. She saw that the old man who was holding a nut cracker was cracking
+b06,b06a,b,trial,doublematch,Dinner would not be ready for a while. The young boy was feeling a little peckish. He saw that the old man who was holding a nut cracker was cracking 
+b07,b07c,a,trial,doublematch,It was almost time to eat lunch. The young girl was sitting at the kitchen table. She watched as the old woman who was a great cook made
+b07,b07d,b,trial,singlematch,It was almost time to eat lunch. The young boy was sitting at the kitchen table. He watched as the old woman who was a great cook made
+b08,b08b,a,trial,singlematch,It was an extra warm Saturday afternoon. The young boy was sitting by the swimming pool. He noticed that the old woman who was holding a red purse had bought
+b08,b08c,b,trial,doublematch,It was an extra warm Saturday afternoon. The young girl was sitting by the swimming pool. She noticed that the old woman who was holding a red purse had bought
+b09,b09a,a,trial,doublematch,Everyone was home for the weekend. The young girl was feeling very hungry. She watched as the old woman who was holding a spoon baked
+b09,b09b,b,trial,singlematch,Everyone was home for the weekend. The young boy was feeling very hungry. He watched as the old woman who was holding a spoon baked
+b10,b10d,a,trial,singlematch,It was a cold January afternoon. The young boy watched the snow falling outside. He could hear that the old woman who was holding a shovel  was making
+b10,b10a,b,trial,doublematch,It was a cold January afternoon. The young girl watched the snow falling outside. She could hear that the old woman who was holding a shovel was making
+b11,b11c,a,trial,doublematch,The holidays are a busy time for mail. The old man was watching the customers in the post office. He wondered why the young boy who was wearing a dress shirt sent
+b11,b11d,b,trial,singlematch,The holidays are a busy time for mail. The old woman was watching the customers in the post office. She wondered why the young boy who was wearing a dress shirt sent
+b12,b12b,a,trial,singlematch,It was a quiet morning in the house. The old woman was standing in the kitchen. She noticed that the young boy who was holding a ladle boiled
+b12,b12c,b,trial,doublematch,It was a quiet morning in the house. The old man was standing in the kitchen. He noticed that the young boy who was holding a ladle boiled
+b13,b13a,a,trial,doublematch,It takes practice to be a good musician. The old man was listening very hard. He knew that the young boy who was practicing the piano found
+b13,b13b,b,trial,singlematch,It takes practice to be a good musician. The old woman was listening very hard. She knew that the young boy who was practicing the piano found
+b14,b14d,a,trial,singlematch,It had been a very mild October. The old woman was looking forward to Halloween. She knew that the young boy who was dressing up as a ghost had carved
+b14,b14a,b,trial,doublematch,It had been a very mild October. The old man was looking forward to Halloween. He knew that the young boy who was dressing up as a ghost had carved
+b15,b15c,a,trial,doublematch,People often avoid talking in front of crowds. The old man was very nervous before the TV interview. He suddenly realized that the young boy who was wearing headsets got
+b15,b15d,b,trial,singlematch,People often avoid talking in front of crowds. The old woman was very nervous before the TV interview. She suddenly realized that the young boy who was wearing headsets got
+b16,b16b,a,trial,singlematch,Warm layers are important in the cold months. The old woman knew that winter wasn't very far away. She smiled when the young boy who was wearing thick socks knit
+b16,b16c,b,trial,doublematch,Warm layers are important in the cold months. The old man knew that winter wasn't very far away. He smiled when the young boy who was wearing thick socks knit
+b17,b17a,a,trial,doublematch,Everyone was winding down for the day. The old man was very tired. He barely noticed that the young boy who was wearing a black shirt was noisily running
+b17,b17b,b,trial,singlematch,Everyone was winding down for the day. The old woman was very tired. She barely noticed that the young boy who was wearing a black shirt was noisily running
+b18,b18d,a,trial,singlematch,The inventive process can be very interesting. The old woman was fascinated by technology. She was impressed when the young boy who was holding a screwdriver built
+b18,b18a,b,trial,doublematch,The inventive process can be very interesting. The old man was fascinated by technology. He was impressed when the young boy who was holding a screwdriver built
+b19,b19c,a,trial,doublematch,Christmas is a busy time for shopping. The old woman was looking around the toy shop. She frowned when the young girl who was eating a lollipop bought
+b19,b19d,b,trial,singlematch,Christmas is a busy time for shopping. The old man was looking around the toy shop. He frowned when the young girl who was eating a lollipop bought
+b20,b20b,a,trial,singlematch,There is a lot to learn about the world. The old man used to teach geography. He was pleased to see that the young girl who was holding a paint brush drew
+b20,b20c,b,trial,doublematch,There is a lot to learn about the world. The old woman used to teach geography. She was pleased to see that the young girl who was holding a paint brush drew
+b21,b21a,a,trial,doublematch,Not everyone approves of drinking. The old woman was grim-looking. She was annoyed when the young girl who was swinging a wine bottle bought
+b21,b21b,b,trial,singlematch,Not everyone approves of drinking. The old man was grim-looking. He was annoyed when the young girl who was swinging a wine bottle bought
+b22,b22c,a,trial,doublematch,A cold drink can be refreshing on a warm day. The old woman was making some lemonade. She asked whether the young girl who was chilling on the couch could fetch
+b22,b22a,b,trial,doublematch,A cold drink can be refreshing on a warm day. The old woman was making some lemonade. She asked whether the young girl who was chilling on the couch could fetch
+b22,b22d,b,trial,singlematch,A cold drink can be refreshing on a warm day. The old man was making some lemonade. He asked whether the young girl who was chilling on the couch could fetch
+b23,b23c,a,trial,doublematch,Some people are more sensitive than others. The old woman couldn't stand the sight of blood. She was relieved when the young girl who was carrying a first aid kit patched
+b23,b23d,b,trial,singlematch,Some people are more sensitive than others. The old man couldn't stand the sight of blood. He was relieved when the young girl who was carrying a first aid kit patched
+b24,b24b,a,trial,singlematch,Clothes can say a lot about a person. The old man is a fashion designer. He was pleased to see that the young girl who was wearing a smart suit made
+b24,b24c,b,trial,doublematch,Clothes can say a lot about a person. The old woman is a fashion designer. She was pleased to see that the young girl who was wearing a smart suit made
