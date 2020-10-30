@@ -1,4 +1,4 @@
-Group,Item,item2,Condition,Factor1,Factor2,Factor3,Context,Target 
+Group,Item,item2,Condition,Factor1,Factor2,Factor3,Context,Target
 a,1,t1,a,Def.plural,Def.plural,Def.plural,"Outside the school, there was a group of students talking about how the exam went.",The students thought that they were the only one who got an A plus.
 b,1,t1,b,All,All,All,"Outside the school, there was a group of students talking about how the exam went.",All the students thought that they were the only one who got an A plus.
 c,1,t1,c,Every,Every,Every,"Outside the school, there was a group of students talking about how the exam went.",Every student thought that they were the only one who got an A plus.
