@@ -1,61 +1,61 @@
-Group,Item,item2,Condition,Factor1,Factor2,Factor3,Context
-b,1,t1,b,All,All,All,"Outside the school, there was a group of students talking about how the exam went."
-b,2,t2,a,Def.plural,Def.plural,Def.plural,"At the racing track early in the morning, a bunch of runners were bragging about race times. "
-b,3,t3,d,Each,Each,Each,"After the restaurant closed for the night, a group of servers were talking about tips."
-b,4,t4,c,Every,Every,Every,A group of freshmen had applied for a prestigious scholarship at the university.
-b,5,t5,b,All,All,All,A bunch of chefs were competing to make the best cupcakes on a popular baking show.
-b,6,t6,a,Def.plural,Def.plural,Def.plural,A group of teenagers were deciding on a video game to play at the house party.
-b,7,t7,d,Each,Each,Each,A big group of cyclists decided to go for a ride despite the poor weather.
-b,8,t8,c,Every,Every,Every,A group of baristas were competing in the final of the World Barista Championship.
-b,9,t9,b,All,All,All,A bunch of kids made it to the TV showing of the national Spelling Bee.
-b,10,t10,a,Def.plural,Def.plural,Def.plural,A group of interns had applied for one permanent position at the company.
-b,11,t11,d,Each,Each,Each,A group of workers volunteered to work during the Thanksgiving holiday.
-b,12,t12,c,Every,Every,Every,A group of salespeople were competing to win the employee of the year award.
-b,13,t13,b,All,All,All,A group of commuters were waiting on the train platform at rush hour.
-b,14,t14,a,Def.plural,Def.plural,Def.plural,A bunch of spectators turned out early to see the parade through the city.
-b,15,t15,d,Each,Each,Each,"At the park, a group of neighbors met to compare gardening plans for next year."
-b,16,t16,c,Every,Every,Every,A group of customers rushed to get an exclusive discount on a product.
-b,17,t17,b,All,All,All,A group of managers competed to get a raise for having the best performance.
-b,18,t18,a,Def.plural,Def.plural,Def.plural,A group of performers sang for a live audience to win a prize.
-b,19,t19,d,Each,Each,Each,"At a family reunion, a group of cousins were competing in a sack race."
-b,20,t20,c,Every,Every,Every,A group of fans had bet on different teams to win the championship.
-b,21,t21,b,All,All,All,A group of directors had submitted short films to the local festival.
-b,22,t22,a,Def.plural,Def.plural,Def.plural,"At a conference, a group of mathematicians were arguing about the solution to a problem."
-b,23,t23,d,Each,Each,Each,A bunch of musicians were having a disagreement about who was in tune.
-b,24,t24,c,Every,Every,Every,A group of journalists were comparing sources used in the past month.
-b,25,r25,b,Island,mismatch,Strong,There was a commotion at the police station.
-b,26,r26,a,Island,match,Strong,Getting ready for a new baby is stressful.
-b,27,r27,d,NonIsland,mismatch,Strong,People like to gossip about royalty.
-b,28,r28,c,NonIsland,match,Strong,There was a lot of drama at the theater.
-b,29,r29,b,Island,mismatch,Weak,The wedding party seemed to be upset.
-b,30,r30,a,Island,match,Weak,Weddings can put people under a lot of stress.
-b,31,r31,d,NonIsland,mismatch,Weak,Children can get bored at weddings.
-b,32,r32,c,NonIsland,match,Weak,There was an incident at the campsite.
-b,33,r33,b,Island,mismatch,Strong,A brilliant resume can pay off.
-b,34,r34,a,Island,match,Strong,Speed traps are becoming common in the city.
-b,35,r35,d,NonIsland,mismatch,Strong,Working at a restaurant can be nerve-wracking.
-b,36,r36,c,NonIsland,match,Strong,Working at a hotel is not fun.
-b,37,r37,b,Island,mismatch,Weak,Show business is tough.
-b,38,r38,a,Island,match,Weak,Good parent volunteers are hard to find.
-b,39,r39,d,NonIsland,mismatch,Weak,Banks are very careful about giving out loans.
-b,40,r40,c,NonIsland,match,Weak,Good help is hard to find.
-b,41,f41,f,filler,filler,good,Looking for shoes can be really hard.
-b,42,f42,f,filler,filler,weird,The final exam was really difficult.
-b,43,f43,f,filler,filler,good,There was a lot of noise in the diner. 
-b,44,f44,f,filler,filler,weird,The streets downtown are very busy.
-b,45,f45,f,filler,filler,good,Finding a reliable car to buy can be hard.
-b,46,f46,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.
-b,47,f47,f,filler,filler,good,There were a lot of whispers in the classroom.
-b,48,f48,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.
-b,49,f49,f,filler,filler,good,Camping with a group of friends can be stressful.
-b,50,f50,f,filler,filler,weird,A group of parents were standing outside the school.
-b,51,f51,f,filler,filler,good,A bunch of toddlers were running around.
-b,52,f52,f,filler,filler,good,A lot of dogs were playing in the park.
-b,53,f53,f,filler,filler,good,A bunch of cars were parked in the lot.
-b,54,f54,f,filler,filler,good,A group of construction workers were having coffee.
-b,55,f55,f,filler,filler,good,A bunch of people at the bank were chatting.
-b,56,f56,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.
-b,57,f57,f,filler,filler,gardenpath,The car race was very exciting.
-b,58,f58,f,filler,filler,gardenpath,It was getting dark in the woods.
-b,59,f59,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.
-b,60,f60,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes."
+Item,item2,Condition,Factor1,Factor2,Factor3,Context
+1,t1,b,All,All,All,"Outside the school, there was a group of students talking about how the exam went."
+2,t2,a,Def.plural,Def.plural,Def.plural,"At the racing track early in the morning, a bunch of runners were bragging about race times. "
+3,t3,d,Each,Each,Each,"After the restaurant closed for the night, a group of servers were talking about tips."
+4,t4,c,Every,Every,Every,A group of freshmen had applied for a prestigious scholarship at the university.
+5,t5,b,All,All,All,A bunch of chefs were competing to make the best cupcakes on a popular baking show.
+6,t6,a,Def.plural,Def.plural,Def.plural,A group of teenagers were deciding on a video game to play at the house party.
+7,t7,d,Each,Each,Each,A big group of cyclists decided to go for a ride despite the poor weather.
+8,t8,c,Every,Every,Every,A group of baristas were competing in the final of the World Barista Championship.
+9,t9,b,All,All,All,A bunch of kids made it to the TV showing of the national Spelling Bee.
+10,t10,a,Def.plural,Def.plural,Def.plural,A group of interns had applied for one permanent position at the company.
+11,t11,d,Each,Each,Each,A group of workers volunteered to work during the Thanksgiving holiday.
+12,t12,c,Every,Every,Every,A group of salespeople were competing to win the employee of the year award.
+13,t13,b,All,All,All,A group of commuters were waiting on the train platform at rush hour.
+14,t14,a,Def.plural,Def.plural,Def.plural,A bunch of spectators turned out early to see the parade through the city.
+15,t15,d,Each,Each,Each,"At the park, a group of neighbors met to compare gardening plans for next year."
+16,t16,c,Every,Every,Every,A group of customers rushed to get an exclusive discount on a product.
+17,t17,b,All,All,All,A group of managers competed to get a raise for having the best performance.
+18,t18,a,Def.plural,Def.plural,Def.plural,A group of performers sang for a live audience to win a prize.
+19,t19,d,Each,Each,Each,"At a family reunion, a group of cousins were competing in a sack race."
+20,t20,c,Every,Every,Every,A group of fans had bet on different teams to win the championship.
+21,t21,b,All,All,All,A group of directors had submitted short films to the local festival.
+22,t22,a,Def.plural,Def.plural,Def.plural,"At a conference, a group of mathematicians were arguing about the solution to a problem."
+23,t23,d,Each,Each,Each,A bunch of musicians were having a disagreement about who was in tune.
+24,t24,c,Every,Every,Every,A group of journalists were comparing sources used in the past month.
+25,r25,b,Island,mismatch,Strong,There was a commotion at the police station.
+26,r26,a,Island,match,Strong,Getting ready for a new baby is stressful.
+27,r27,d,NonIsland,mismatch,Strong,People like to gossip about royalty.
+28,r28,c,NonIsland,match,Strong,There was a lot of drama at the theater.
+29,r29,b,Island,mismatch,Weak,The wedding party seemed to be upset.
+30,r30,a,Island,match,Weak,Weddings can put people under a lot of stress.
+31,r31,d,NonIsland,mismatch,Weak,Children can get bored at weddings.
+32,r32,c,NonIsland,match,Weak,There was an incident at the campsite.
+33,r33,b,Island,mismatch,Strong,A brilliant resume can pay off.
+34,r34,a,Island,match,Strong,Speed traps are becoming common in the city.
+35,r35,d,NonIsland,mismatch,Strong,Working at a restaurant can be nerve-wracking.
+36,r36,c,NonIsland,match,Strong,Working at a hotel is not fun.
+37,r37,b,Island,mismatch,Weak,Show business is tough.
+38,r38,a,Island,match,Weak,Good parent volunteers are hard to find.
+39,r39,d,NonIsland,mismatch,Weak,Banks are very careful about giving out loans.
+40,r40,c,NonIsland,match,Weak,Good help is hard to find.
+41,f41,f,filler,filler,good,Looking for shoes can be really hard.
+42,f42,f,filler,filler,weird,The final exam was really difficult.
+43,f43,f,filler,filler,good,There was a lot of noise in the diner. 
+44,f44,f,filler,filler,weird,The streets downtown are very busy.
+45,f45,f,filler,filler,good,Finding a reliable car to buy can be hard.
+46,f46,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.
+47,f47,f,filler,filler,good,There were a lot of whispers in the classroom.
+48,f48,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.
+49,f49,f,filler,filler,good,Camping with a group of friends can be stressful.
+50,f50,f,filler,filler,weird,A group of parents were standing outside the school.
+51,f51,f,filler,filler,good,A bunch of toddlers were running around.
+52,f52,f,filler,filler,good,A lot of dogs were playing in the park.
+53,f53,f,filler,filler,good,A bunch of cars were parked in the lot.
+54,f54,f,filler,filler,good,A group of construction workers were having coffee.
+55,f55,f,filler,filler,good,A bunch of people at the bank were chatting.
+56,f56,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.
+57,f57,f,filler,filler,gardenpath,The car race was very exciting.
+58,f58,f,filler,filler,gardenpath,It was getting dark in the woods.
+59,f59,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.
+60,f60,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes."
