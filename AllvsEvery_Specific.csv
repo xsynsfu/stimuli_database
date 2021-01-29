@@ -1,4 +1,4 @@
-Group,Item,item2,Condition,Factor1,Factor2,Factor3,Context,TargetSentence,Fixer
+Group,Item,item2,Condition,Factor1,Factor2,Factor3,Context,TargetSentence
 a,1,t1,a,Def.plural,Def.plural,Def.plural,A group of boys were talking about how the exam went.,The boys thought that they were the only one who got an A plus.
 b,1,t1,b,All,All,All,A group of boys were talking about how the exam went.,All the boys thought that they were the only one who got an A plus.
 c,1,t1,c,Every,Every,Every,A group of boys were talking about how the exam went.,Every boy thought that they were the only one who got an A plus.
