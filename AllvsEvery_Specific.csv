@@ -159,83 +159,163 @@ d,40,r40,a,Island,match,Weak,Good help is hard to find.,There was an assistant w
 a,40,r40,b,Island,mismatch,Weak,Good help is hard to find.,There was an assistant who a workman speculated whether the company hired her directly from the agency.,
 b,40,r40,c,NonIsland,match,Weak,Good help is hard to find.,There was an assistant who a workman said that the company hired him directly from the agency.,
 c,40,r40,d,NonIsland,mismatch,Weak,Good help is hard to find.,There was an assistant who a workman said that the company hired her directly from the agency.,
-a,41,f41,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock.",
-a,42,f42,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.,
-a,43,f43,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. ,
-a,44,f44,f,filler,filler,weird,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.,
-a,45,f45,f,filler,filler,good,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.,
-a,46,f46,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.,Every diner said that they would try the dish that no waiter thought they should.,
-a,47,f47,f,filler,filler,good,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.,
-a,48,f48,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.,
-a,49,f49,f,filler,filler,good,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.,
-a,50,f50,f,filler,filler,weird,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.,
-a,51,f51,f,filler,filler,good,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.,
-a,52,f52,f,filler,filler,good,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.,
-a,53,f53,f,filler,filler,good,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away.",
-a,54,f54,f,filler,filler,good,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.,
-a,55,f55,f,filler,filler,good,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.,
-a,56,f56,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.,
-a,57,f57,f,filler,filler,gardenpath,The car race was very exciting.,The expensive car sped around the track broke down after the race.,
-a,58,f58,f,filler,filler,gardenpath,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.,
-a,59,f59,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.,
-a,60,f60,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.,
-b,41,f41,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock.",
-b,42,f42,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.,
-b,43,f43,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. ,
-b,44,f44,f,filler,filler,weird,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.,
-b,45,f45,f,filler,filler,good,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.,
-b,46,f46,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.,Every diner said that they would try the dish that no waiter thought they should.,
-b,47,f47,f,filler,filler,good,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.,
-b,48,f48,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.,
-b,49,f49,f,filler,filler,good,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.,
-b,50,f50,f,filler,filler,weird,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.,
-b,51,f51,f,filler,filler,good,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.,
-b,52,f52,f,filler,filler,good,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.,
-b,53,f53,f,filler,filler,good,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away.",
-b,54,f54,f,filler,filler,good,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.,
-b,55,f55,f,filler,filler,good,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.,
-b,56,f56,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.,
-b,57,f57,f,filler,filler,gardenpath,The car race was very exciting.,The expensive car sped around the track broke down after the race.,
-b,58,f58,f,filler,filler,gardenpath,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.,
-b,59,f59,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.,
-b,60,f60,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.,
-c,41,f41,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock.",
-c,42,f42,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.,
-c,43,f43,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. ,
-c,44,f44,f,filler,filler,weird,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.,
-c,45,f45,f,filler,filler,good,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.,
-c,46,f46,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.,Every diner said that they would try the dish that no waiter thought they should.,
-c,47,f47,f,filler,filler,good,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.,
-c,48,f48,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.,
-c,49,f49,f,filler,filler,good,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.,
-c,50,f50,f,filler,filler,weird,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.,
-c,51,f51,f,filler,filler,good,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.,
-c,52,f52,f,filler,filler,good,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.,
-c,53,f53,f,filler,filler,good,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away.",
-c,54,f54,f,filler,filler,good,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.,
-c,55,f55,f,filler,filler,good,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.,
-c,56,f56,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.,
-c,57,f57,f,filler,filler,gardenpath,The car race was very exciting.,The expensive car sped around the track broke down after the race.,
-c,58,f58,f,filler,filler,gardenpath,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.,
-c,59,f59,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.,
-c,60,f60,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.,
-d,41,f41,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock.",
-d,42,f42,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.,
-d,43,f43,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. ,
-d,44,f44,f,filler,filler,weird,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.,
-d,45,f45,f,filler,filler,good,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.,
-d,46,f46,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.,Every diner said that they would try the dish that no waiter thought they should.,
-d,47,f47,f,filler,filler,good,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.,
-d,48,f48,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.,
-d,49,f49,f,filler,filler,good,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.,
-d,50,f50,f,filler,filler,weird,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.,
-d,51,f51,f,filler,filler,good,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.,
-d,52,f52,f,filler,filler,good,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.,
-d,53,f53,f,filler,filler,good,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away.",
-d,54,f54,f,filler,filler,good,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.,
-d,55,f55,f,filler,filler,good,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.,
-d,56,f56,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.,
-d,57,f57,f,filler,filler,gardenpath,The car race was very exciting.,The expensive car sped around the track broke down after the race.,
-d,58,f58,f,filler,filler,gardenpath,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.,
-d,59,f59,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.,
-d,60,f60,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.,
+a,41,r41,a,Island,match,Strong,Flying with a baby is tough.,There was a father who a flight attendant was worried because a crying baby distressed him tremendously during the descent.
+b,41,r41,b,Island,mismatch,Strong,Flying with a baby is tough.,There was a father who a flight attendant was worried because a crying baby distressed her tremendously during the descent.
+c,41,r41,c,NonIsland,match,Strong,Flying with a baby is tough.,There was a father who a flight attendant thought that a crying baby distressed him tremendously during the descent.
+d,41,r41,d,NonIsland,mismatch,Strong,Flying with a baby is tough.,There was a father who a flight attendant thought that a crying baby distressed her tremendously during the descent.
+b,42,r42,a,Island,match,Weak,Universites are recruiting high school athletes.,There was a quarterback who a parent wondered whether a recruiter contacted him recently about a university scholarship.
+c,42,r42,b,Island,mismatch,Weak,Universites are recruiting high school athletes.,There was a quarterback who a parent wondered whether a recruiter contacted her recently about a university scholarship.
+d,42,r42,c,NonIsland,match,Weak,Universites are recruiting high school athletes.,There was a quarterback who a parent believed that a recruiter contacted him recently about a university scholarship.
+a,42,r42,d,NonIsland,mismatch,Weak,Universites are recruiting high school athletes.,There was a quarterback who a parent believed that a recruiter contacted her recently about a university scholarship.
+c,43,r43,a,Island,match,Strong,Crime rates are high in this neighborhood.,There was a gunman who a pedestrian was wary because the police chased him dangerously down the busy street.
+d,43,r43,b,Island,mismatch,Strong,Crime rates are high in this neighborhood.,There was a gunman who a pedestrian was wary because the police chased her dangerously down the busy street.
+a,43,r43,c,NonIsland,match,Strong,Crime rates are high in this neighborhood.,There was a gunman who a pedestrian said that the police chased him dangerously down the busy street.
+b,43,r43,d,NonIsland,mismatch,Strong,Crime rates are high in this neighborhood.,There was a gunman who a pedestrian said that the police chased her dangerously down the busy street.
+d,44,r44,a,Island,match,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a landlady who a neighbor asked whether the investor called her this week about a development project.
+a,44,r44,b,Island,mismatch,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a landlady who a neighbor asked whether the investor called him this week about a development project.
+b,44,r44,c,NonIsland,match,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a landlady who a neighbor thought that the investor called her this week about a development project.
+c,44,r44,d,NonIsland,mismatch,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a landlady who a neighbor thought that the investor called him this week about a development project.
+a,45,r45,a,Island,match,Strong,There are questions about what's going on at the local church.,There was a priest who a churchgoer was upset because a whistleblower wrote him secretly about a scandal.
+b,45,r45,b,Island,mismatch,Strong,There are questions about what's going on at the local church.,There was a priest who a churchgoer was upset because a whistleblower wrote her secretly about a scandal.
+c,45,r45,c,NonIsland,match,Strong,There are questions about what's going on at the local church.,There was a priest who a churchgoer believed that a whistleblower wrote him secretly about a scandal.
+d,45,r45,d,NonIsland,mismatch,Strong,There are questions about what's going on at the local church.,There was a priest who a churchgoer believed that a whistleblower wrote her secretly about a scandal.
+b,46,r46,a,Island,match,Weak,Getting meals at school is important for lots of kids.,There was a lunchlady who a principal wondered whether the students appreciated her for the extra cookies.
+c,46,r46,b,Island,mismatch,Weak,Getting meals at school is important for lots of kids.,There was a lunchlady who a principal wondered whether the students appreciated him for the extra cookies.
+d,46,r46,c,NonIsland,match,Weak,Getting meals at school is important for lots of kids.,There was a lunchlady who a principal said that the students appreciated her for the extra cookies.
+a,46,r46,d,NonIsland,mismatch,Weak,Getting meals at school is important for lots of kids.,There was a lunchlady who a principal said that the students appreciated him for the extra cookies.
+c,47,r47,a,Island,match,Strong,The movie industry can be unforgiving.,There was a stuntman who an assistant was distracted because the actors criticized him unjustly on the set.
+d,47,r47,b,Island,mismatch,Strong,The movie industry can be unforgiving.,There was a stuntman who an assistant was distracted because the actors criticized her unjustly on the set.
+a,47,r47,c,NonIsland,match,Strong,The movie industry can be unforgiving.,There was a stuntman who an assistant believed that the actors criticized him unjustly on the set.
+b,47,r47,d,NonIsland,mismatch,Strong,The movie industry can be unforgiving.,There was a stuntman who an assistant believed that the actors criticized her unjustly on the set.
+d,48,r48,a,Island,match,Weak,It's hard to be successful in politics without allies.,There was a congresswoman who a judge wondered whether the senate members accepted her with open arms.
+a,48,r48,b,Island,mismatch,Weak,It's hard to be successful in politics without allies.,There was a congresswoman who a judge wondered whether the senate members accepted him with open arms.
+b,48,r48,c,NonIsland,match,Weak,It's hard to be successful in politics without allies.,There was a congresswoman who a judge thought that the senate members accepted her with open arms.
+c,48,r48,d,NonIsland,mismatch,Weak,It's hard to be successful in politics without allies.,There was a congresswoman who a judge thought that the senate members accepted him with open arms.
+a,49,r49,a,Island,match,Strong,Some people can't take a joke.,There was a king who a servant consoled because a jester mocked him ruthlessly at dinner.
+b,49,r49,b,Island,mismatch,Strong,Some people can't take a joke.,There was a king who a servant consoled because a jester mocked her ruthlessly at dinner.
+c,49,r49,c,NonIsland,match,Strong,Some people can't take a joke.,There was a king who a servant recalled that a jester mocked him ruthlessly at dinner.
+d,49,r49,d,NonIsland,mismatch,Strong,Some people can't take a joke.,There was a king who a servant recalled that a jester mocked her ruthlessly at dinner.
+b,50,r50,a,Island,match,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian wondered whether car drivers saw her clearly on the sidewalk.
+c,50,r50,b,Island,mismatch,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian wondered whether car drivers saw him clearly on the sidewalk.
+d,50,r50,c,NonIsland,match,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian hoped that car drivers saw her clearly on the sidewalk.
+a,50,r50,d,NonIsland,mismatch,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian hoped that car drivers saw him clearly on the sidewalk.
+c,51,r51,a,Island,match,Strong,It was a close football game.,There was a football player who a spectator was mad because the referee asked him suddenly to leave.
+d,51,r51,b,Island,mismatch,Strong,It was a close football game.,There was a football player who a spectator was mad because the referee asked her suddenly to leave.
+a,51,r51,c,NonIsland,match,Strong,It was a close football game.,There was a football player who a spectator heard that the referee asked him suddenly to leave.
+b,51,r51,d,NonIsland,mismatch,Strong,It was a close football game.,There was a football player who a spectator heard that the referee asked her suddenly to leave.
+d,52,r52,a,Island,match,Weak,The high school baseball championship was coming to an end.,There was a baseball player who a family member wondered whether a college offered him a full scholarship for next year.
+a,52,r52,b,Island,mismatch,Weak,The high school baseball championship was coming to an end.,There was a baseball player who a family member wondered whether a college offered her a full scholarship for next year.
+b,52,r52,c,NonIsland,match,Weak,The high school baseball championship was coming to an end.,There was a baseball player who a family member hoped that a college offered him a full scholarship for next year.
+c,52,r52,d,NonIsland,mismatch,Weak,The high school baseball championship was coming to an end.,There was a baseball player who a family member hoped that a college offered her a full scholarship for next year.
+a,53,r53,a,Island,match,Strong,There was a new case the department was investigating.,There was a young man who a journalist was impressed because the city thanked him publicly for cracking the case.
+b,53,r53,b,Island,mismatch,Strong,There was a new case the department was investigating.,There was a young man who a journalist was impressed because the city thanked her publicly for cracking the case.
+c,53,r53,c,NonIsland,match,Strong,There was a new case the department was investigating.,There was a young man who a journalist said that the city thanked him publicly for cracking the case.
+d,53,r53,d,NonIsland,mismatch,Strong,There was a new case the department was investigating.,There was a young man who a journalist said that the city thanked her publicly for cracking the case.
+b,54,r54,a,Island,match,Strong,A big dinner was held for everyone at the palace.,There was a jester who a courtier was amused because the jokes entertained him spectactularly at the dinner. 
+c,54,r54,b,Island,mismatch,Strong,A big dinner was held for everyone at the palace.,There was a jester who a courtier was amused because the jokes entertained her spectactularly at the dinner. 
+d,54,r54,c,NonIsland,match,Strong,A big dinner was held for everyone at the palace.,There was a jester who a courtier believed that the jokes entertained him spectactularly at the dinner. 
+a,54,r54,d,NonIsland,mismatch,Strong,A big dinner was held for everyone at the palace.,There was a jester who a courtier believed that the jokes entertained her spectactularly at the dinner. 
+c,55,r55,a,Island,match,Strong,There had been a concert in the stadium the other day.,There was a baritone who a performer was impressed because the magazines commended him greatly for the amazing solo.
+d,55,r55,b,Island,mismatch,Strong,There had been a concert in the stadium the other day.,There was a baritone who a performer was impressed because the magazines commended her greatly for the amazing solo.
+a,55,r55,c,NonIsland,match,Strong,There had been a concert in the stadium the other day.,There was a baritone who a performer said that the magazines commended him greatly for the amazing solo.
+b,55,r55,d,NonIsland,mismatch,Strong,There had been a concert in the stadium the other day.,There was a baritone who a performer said that the magazines commended her greatly for the amazing solo.
+d,56,r56,a,Island,match,Weak,A messy situation was uncovered by the police.,There was an old man who a detective wondered whether the real criminal blackmailed him illegally for the crime.
+a,56,r56,b,Island,mismatch,Weak,A messy situation was uncovered by the police.,There was an old man who a detective wondered whether the real criminal blackmailed her illegally for the crime.
+b,56,r56,c,NonIsland,match,Weak,A messy situation was uncovered by the police.,There was an old man who a detective said that the real criminal blackmailed him illegally for the crime.
+c,56,r56,d,NonIsland,mismatch,Weak,A messy situation was uncovered by the police.,There was an old man who a detective said that the real criminal blackmailed her illegally for the crime.
+a,57,r57,a,Island,match,Strong,There had been a fire in the neighborhood last week.,There was a fireman who a homeowner was pleased because the newspapers praised him highly for the daring rescue.
+b,57,r57,b,Island,mismatch,Strong,There had been a fire in the neighborhood last week.,There was a fireman who a homeowner was pleased because the newspapers praised her highly for the daring rescue.
+c,57,r57,c,NonIsland,match,Strong,There had been a fire in the neighborhood last week.,There was a fireman who a homeowner said that the newspapers praised him highly for the daring rescue.
+d,57,r57,d,NonIsland,mismatch,Strong,There had been a fire in the neighborhood last week.,There was a fireman who a homeowner said that the newspapers praised her highly for the daring rescue.
+b,58,r58,a,Island,match,Weak,Summer blockbusters are expensive to make.,There was an actor who a teen speculated whether the production staff paid him extravagantly for the role.
+c,58,r58,b,Island,mismatch,Weak,Summer blockbusters are expensive to make.,There was an actor who a teen speculated whether the production staff paid her extravagantly for the role.
+d,58,r58,c,NonIsland,match,Weak,Summer blockbusters are expensive to make.,There was an actor who a teen said that the production staff paid him extravagantly for the role.
+a,58,r58,d,NonIsland,mismatch,Weak,Summer blockbusters are expensive to make.,There was an actor who a teen said that the production staff paid her extravagantly for the role.
+c,59,r59,a,Island,match,Strong,Hockey is sometimes a very rough sport.,There was a hockey player who a spectator was enraged because the referees penalized him severely for fighting.
+d,59,r59,b,Island,mismatch,Strong,Hockey is sometimes a very rough sport.,There was a hockey player who a spectator was enraged because the referees penalized her severely for fighting.
+a,59,r59,c,NonIsland,match,Strong,Hockey is sometimes a very rough sport.,There was a hockey player who a spectator thought that the referees penalized him severely for fighting.
+b,59,r59,d,NonIsland,mismatch,Strong,Hockey is sometimes a very rough sport.,There was a hockey player who a spectator thought that the referees penalized her severely for fighting.
+d,60,r60,a,Island,match,Weak,Many people are too busy to do housework.,There was a maid who a visitor wondered whether the homeowners thanked her properly for cleaning up.
+a,60,r60,b,Island,mismatch,Weak,Many people are too busy to do housework.,There was a maid who a visitor wondered whether the homeowners thanked him properly for cleaning up.
+b,60,r60,c,NonIsland,match,Weak,Many people are too busy to do housework.,There was a maid who a visitor believed that the homeowners thanked her properly for cleaning up.
+c,60,r60,d,NonIsland,mismatch,Weak,Many people are too busy to do housework.,There was a maid who a visitor believed that the homeowners thanked him properly for cleaning up.
+a,61,f61,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock."
+a,62,f62,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.
+a,63,f63,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. 
+a,64,f64,f,filler,filler,weird,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.
+a,65,f65,f,filler,filler,good,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.
+a,66,f66,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.,Every diner wanted to try the dish that no waiter thought anyone should.
+a,67,f67,f,filler,filler,good,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.
+a,68,f68,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.
+a,69,f69,f,filler,filler,good,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.
+a,70,f70,f,filler,filler,weird,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.
+a,71,f71,f,filler,filler,good,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.
+a,72,f72,f,filler,filler,good,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.
+a,73,f73,f,filler,filler,good,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away."
+a,74,f74,f,filler,filler,good,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.
+a,75,f75,f,filler,filler,good,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.
+a,76,f76,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.
+a,77,f77,f,filler,filler,gardenpath,The car race was very exciting.,The expensive car sped around the track broke down after the race.
+a,78,f78,f,filler,filler,gardenpath,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.
+a,79,f79,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.
+a,80,f80,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.
+b,61,f61,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock."
+b,62,f62,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.
+b,63,f63,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. 
+b,64,f64,f,filler,filler,weird,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.
+b,65,f65,f,filler,filler,good,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.
+b,66,f66,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.,Every diner wanted to try the dish that no waiter thought anyone should.
+b,67,f67,f,filler,filler,good,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.
+b,68,f68,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.
+b,69,f69,f,filler,filler,good,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.
+b,70,f70,f,filler,filler,weird,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.
+b,71,f71,f,filler,filler,good,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.
+b,72,f72,f,filler,filler,good,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.
+b,73,f73,f,filler,filler,good,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away."
+b,74,f74,f,filler,filler,good,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.
+b,75,f75,f,filler,filler,good,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.
+b,76,f76,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.
+b,77,f77,f,filler,filler,gardenpath,The car race was very exciting.,The expensive car sped around the track broke down after the race.
+b,78,f78,f,filler,filler,gardenpath,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.
+b,79,f79,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.
+b,80,f80,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.
+c,61,f61,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock."
+c,62,f62,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.
+c,63,f63,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. 
+c,64,f64,f,filler,filler,weird,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.
+c,65,f65,f,filler,filler,good,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.
+c,66,f66,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.,Every diner wanted to try the dish that no waiter thought anyone should.
+c,67,f67,f,filler,filler,good,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.
+c,68,f68,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.
+c,69,f69,f,filler,filler,good,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.
+c,70,f70,f,filler,filler,weird,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.
+c,71,f71,f,filler,filler,good,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.
+c,72,f72,f,filler,filler,good,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.
+c,73,f73,f,filler,filler,good,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away."
+c,74,f74,f,filler,filler,good,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.
+c,75,f75,f,filler,filler,good,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.
+c,76,f76,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.
+c,77,f77,f,filler,filler,gardenpath,The car race was very exciting.,The expensive car sped around the track broke down after the race.
+c,78,f78,f,filler,filler,gardenpath,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.
+c,79,f79,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.
+c,80,f80,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.
+d,61,f61,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock."
+d,62,f62,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.
+d,63,f63,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. 
+d,64,f64,f,filler,filler,weird,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.
+d,65,f65,f,filler,filler,good,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.
+d,66,f66,f,filler,filler,weird,The staff at the restaurant likes to make suggestions.,Every diner wanted to try the dish that no waiter thought anyone should.
+d,67,f67,f,filler,filler,good,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.
+d,68,f68,f,filler,filler,weird,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.
+d,69,f69,f,filler,filler,good,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.
+d,70,f70,f,filler,filler,weird,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.
+d,71,f71,f,filler,filler,good,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.
+d,72,f72,f,filler,filler,good,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.
+d,73,f73,f,filler,filler,good,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away."
+d,74,f74,f,filler,filler,good,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.
+d,75,f75,f,filler,filler,good,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.
+d,76,f76,f,filler,filler,gardenpath,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.
+d,77,f77,f,filler,filler,gardenpath,The car race was very exciting.,The expensive car sped around the track broke down after the race.
+d,78,f78,f,filler,filler,gardenpath,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.
+d,79,f79,f,filler,filler,gardenpath,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.
+d,80,f80,f,filler,filler,gardenpath,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.
