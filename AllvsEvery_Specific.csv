@@ -159,86 +159,86 @@ d,40,r40,a,Island,match,Weak,Good help is hard to find.,There was an assistant w
 a,40,r40,b,Island,mismatch,Weak,Good help is hard to find.,There was an assistant who a workman speculated whether the company hired her directly from the agency.
 b,40,r40,c,NonIsland,match,Weak,Good help is hard to find.,There was an assistant who a workman said that the company hired him directly from the agency.
 c,40,r40,d,NonIsland,mismatch,Weak,Good help is hard to find.,There was an assistant who a workman said that the company hired her directly from the agency.
-a,41,r41,a,Island,match,Strong,Flying with a baby is tough.,There was a father who a flight attendant was worried because a crying baby distressed him tremendously during the descent.
-b,41,r41,b,Island,mismatch,Strong,Flying with a baby is tough.,There was a father who a flight attendant was worried because a crying baby distressed her tremendously during the descent.
-c,41,r41,c,NonIsland,match,Strong,Flying with a baby is tough.,There was a father who a flight attendant thought that a crying baby distressed him tremendously during the descent.
-d,41,r41,d,NonIsland,mismatch,Strong,Flying with a baby is tough.,There was a father who a flight attendant thought that a crying baby distressed her tremendously during the descent.
-b,42,r42,a,Island,match,Weak,Universites are recruiting high school athletes.,There was a quarterback who a parent wondered whether a recruiter contacted him recently about a university scholarship.
-c,42,r42,b,Island,mismatch,Weak,Universites are recruiting high school athletes.,There was a quarterback who a parent wondered whether a recruiter contacted her recently about a university scholarship.
-d,42,r42,c,NonIsland,match,Weak,Universites are recruiting high school athletes.,There was a quarterback who a parent believed that a recruiter contacted him recently about a university scholarship.
-a,42,r42,d,NonIsland,mismatch,Weak,Universites are recruiting high school athletes.,There was a quarterback who a parent believed that a recruiter contacted her recently about a university scholarship.
-c,43,r43,a,Island,match,Strong,Crime rates are high in this neighborhood.,There was a gunman who a pedestrian was wary because the police chased him dangerously down the busy street.
-d,43,r43,b,Island,mismatch,Strong,Crime rates are high in this neighborhood.,There was a gunman who a pedestrian was wary because the police chased her dangerously down the busy street.
-a,43,r43,c,NonIsland,match,Strong,Crime rates are high in this neighborhood.,There was a gunman who a pedestrian said that the police chased him dangerously down the busy street.
-b,43,r43,d,NonIsland,mismatch,Strong,Crime rates are high in this neighborhood.,There was a gunman who a pedestrian said that the police chased her dangerously down the busy street.
-d,44,r44,a,Island,match,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a landlady who a neighbor asked whether the investor called her this week about a development project.
-a,44,r44,b,Island,mismatch,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a landlady who a neighbor asked whether the investor called him this week about a development project.
-b,44,r44,c,NonIsland,match,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a landlady who a neighbor thought that the investor called her this week about a development project.
-c,44,r44,d,NonIsland,mismatch,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a landlady who a neighbor thought that the investor called him this week about a development project.
-a,45,r45,a,Island,match,Strong,There are questions about what's going on at the local church.,There was a priest who a churchgoer was upset because a whistleblower wrote him secretly about a scandal.
-b,45,r45,b,Island,mismatch,Strong,There are questions about what's going on at the local church.,There was a priest who a churchgoer was upset because a whistleblower wrote her secretly about a scandal.
-c,45,r45,c,NonIsland,match,Strong,There are questions about what's going on at the local church.,There was a priest who a churchgoer believed that a whistleblower wrote him secretly about a scandal.
-d,45,r45,d,NonIsland,mismatch,Strong,There are questions about what's going on at the local church.,There was a priest who a churchgoer believed that a whistleblower wrote her secretly about a scandal.
-b,46,r46,a,Island,match,Weak,Getting meals at school is important for lots of kids.,There was a lunchlady who a principal wondered whether the students appreciated her for the extra cookies.
-c,46,r46,b,Island,mismatch,Weak,Getting meals at school is important for lots of kids.,There was a lunchlady who a principal wondered whether the students appreciated him for the extra cookies.
-d,46,r46,c,NonIsland,match,Weak,Getting meals at school is important for lots of kids.,There was a lunchlady who a principal said that the students appreciated her for the extra cookies.
-a,46,r46,d,NonIsland,mismatch,Weak,Getting meals at school is important for lots of kids.,There was a lunchlady who a principal said that the students appreciated him for the extra cookies.
-c,47,r47,a,Island,match,Strong,The movie industry can be unforgiving.,There was a stuntman who an assistant was distracted because the actors criticized him unjustly on the set.
-d,47,r47,b,Island,mismatch,Strong,The movie industry can be unforgiving.,There was a stuntman who an assistant was distracted because the actors criticized her unjustly on the set.
-a,47,r47,c,NonIsland,match,Strong,The movie industry can be unforgiving.,There was a stuntman who an assistant believed that the actors criticized him unjustly on the set.
-b,47,r47,d,NonIsland,mismatch,Strong,The movie industry can be unforgiving.,There was a stuntman who an assistant believed that the actors criticized her unjustly on the set.
-d,48,r48,a,Island,match,Weak,It's hard to be successful in politics without allies.,There was a congresswoman who a judge wondered whether the senate members accepted her with open arms.
-a,48,r48,b,Island,mismatch,Weak,It's hard to be successful in politics without allies.,There was a congresswoman who a judge wondered whether the senate members accepted him with open arms.
-b,48,r48,c,NonIsland,match,Weak,It's hard to be successful in politics without allies.,There was a congresswoman who a judge thought that the senate members accepted her with open arms.
-c,48,r48,d,NonIsland,mismatch,Weak,It's hard to be successful in politics without allies.,There was a congresswoman who a judge thought that the senate members accepted him with open arms.
-a,49,r49,a,Island,match,Strong,Some people can't take a joke.,There was a king who a servant consoled because a jester mocked him ruthlessly at dinner.
-b,49,r49,b,Island,mismatch,Strong,Some people can't take a joke.,There was a king who a servant consoled because a jester mocked her ruthlessly at dinner.
-c,49,r49,c,NonIsland,match,Strong,Some people can't take a joke.,There was a king who a servant recalled that a jester mocked him ruthlessly at dinner.
-d,49,r49,d,NonIsland,mismatch,Strong,Some people can't take a joke.,There was a king who a servant recalled that a jester mocked her ruthlessly at dinner.
-b,50,r50,a,Island,match,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian wondered whether car drivers saw her clearly on the sidewalk.
-c,50,r50,b,Island,mismatch,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian wondered whether car drivers saw him clearly on the sidewalk.
-d,50,r50,c,NonIsland,match,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian hoped that car drivers saw her clearly on the sidewalk.
-a,50,r50,d,NonIsland,mismatch,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian hoped that car drivers saw him clearly on the sidewalk.
-c,51,r51,a,Island,match,Strong,It was a close football game.,There was a football player who a spectator was mad because the referee asked him suddenly to leave.
-d,51,r51,b,Island,mismatch,Strong,It was a close football game.,There was a football player who a spectator was mad because the referee asked her suddenly to leave.
-a,51,r51,c,NonIsland,match,Strong,It was a close football game.,There was a football player who a spectator heard that the referee asked him suddenly to leave.
-b,51,r51,d,NonIsland,mismatch,Strong,It was a close football game.,There was a football player who a spectator heard that the referee asked her suddenly to leave.
-d,52,r52,a,Island,match,Weak,The high school baseball championship was coming to an end.,There was a baseball player who a family member wondered whether a college offered him a full scholarship for next year.
-a,52,r52,b,Island,mismatch,Weak,The high school baseball championship was coming to an end.,There was a baseball player who a family member wondered whether a college offered her a full scholarship for next year.
-b,52,r52,c,NonIsland,match,Weak,The high school baseball championship was coming to an end.,There was a baseball player who a family member hoped that a college offered him a full scholarship for next year.
-c,52,r52,d,NonIsland,mismatch,Weak,The high school baseball championship was coming to an end.,There was a baseball player who a family member hoped that a college offered her a full scholarship for next year.
-a,53,r53,a,Island,match,Strong,There was a new case the department was investigating.,There was a young man who a journalist was impressed because the city thanked him publicly for cracking the case.
-b,53,r53,b,Island,mismatch,Strong,There was a new case the department was investigating.,There was a young man who a journalist was impressed because the city thanked her publicly for cracking the case.
-c,53,r53,c,NonIsland,match,Strong,There was a new case the department was investigating.,There was a young man who a journalist said that the city thanked him publicly for cracking the case.
-d,53,r53,d,NonIsland,mismatch,Strong,There was a new case the department was investigating.,There was a young man who a journalist said that the city thanked her publicly for cracking the case.
-b,54,r54,a,Island,match,Strong,A big dinner was held for everyone at the palace.,There was a jester who a courtier was amused because the jokes entertained him spectactularly at the dinner. 
-c,54,r54,b,Island,mismatch,Strong,A big dinner was held for everyone at the palace.,There was a jester who a courtier was amused because the jokes entertained her spectactularly at the dinner. 
-d,54,r54,c,NonIsland,match,Strong,A big dinner was held for everyone at the palace.,There was a jester who a courtier believed that the jokes entertained him spectactularly at the dinner. 
-a,54,r54,d,NonIsland,mismatch,Strong,A big dinner was held for everyone at the palace.,There was a jester who a courtier believed that the jokes entertained her spectactularly at the dinner. 
-c,55,r55,a,Island,match,Strong,There had been a concert in the stadium the other day.,There was a baritone who a performer was impressed because the magazines commended him greatly for the amazing solo.
-d,55,r55,b,Island,mismatch,Strong,There had been a concert in the stadium the other day.,There was a baritone who a performer was impressed because the magazines commended her greatly for the amazing solo.
-a,55,r55,c,NonIsland,match,Strong,There had been a concert in the stadium the other day.,There was a baritone who a performer said that the magazines commended him greatly for the amazing solo.
-b,55,r55,d,NonIsland,mismatch,Strong,There had been a concert in the stadium the other day.,There was a baritone who a performer said that the magazines commended her greatly for the amazing solo.
-d,56,r56,a,Island,match,Weak,A messy situation was uncovered by the police.,There was an old man who a detective wondered whether the real criminal blackmailed him illegally for the crime.
-a,56,r56,b,Island,mismatch,Weak,A messy situation was uncovered by the police.,There was an old man who a detective wondered whether the real criminal blackmailed her illegally for the crime.
-b,56,r56,c,NonIsland,match,Weak,A messy situation was uncovered by the police.,There was an old man who a detective said that the real criminal blackmailed him illegally for the crime.
-c,56,r56,d,NonIsland,mismatch,Weak,A messy situation was uncovered by the police.,There was an old man who a detective said that the real criminal blackmailed her illegally for the crime.
-a,57,r57,a,Island,match,Strong,There had been a fire in the neighborhood last week.,There was a fireman who a homeowner was pleased because the newspapers praised him highly for the daring rescue.
-b,57,r57,b,Island,mismatch,Strong,There had been a fire in the neighborhood last week.,There was a fireman who a homeowner was pleased because the newspapers praised her highly for the daring rescue.
-c,57,r57,c,NonIsland,match,Strong,There had been a fire in the neighborhood last week.,There was a fireman who a homeowner said that the newspapers praised him highly for the daring rescue.
-d,57,r57,d,NonIsland,mismatch,Strong,There had been a fire in the neighborhood last week.,There was a fireman who a homeowner said that the newspapers praised her highly for the daring rescue.
-b,58,r58,a,Island,match,Weak,Summer blockbusters are expensive to make.,There was an actor who a teen speculated whether the production staff paid him extravagantly for the role.
-c,58,r58,b,Island,mismatch,Weak,Summer blockbusters are expensive to make.,There was an actor who a teen speculated whether the production staff paid her extravagantly for the role.
-d,58,r58,c,NonIsland,match,Weak,Summer blockbusters are expensive to make.,There was an actor who a teen said that the production staff paid him extravagantly for the role.
-a,58,r58,d,NonIsland,mismatch,Weak,Summer blockbusters are expensive to make.,There was an actor who a teen said that the production staff paid her extravagantly for the role.
-c,59,r59,a,Island,match,Strong,Hockey is sometimes a very rough sport.,There was a hockey player who a spectator was enraged because the referees penalized him severely for fighting.
-d,59,r59,b,Island,mismatch,Strong,Hockey is sometimes a very rough sport.,There was a hockey player who a spectator was enraged because the referees penalized her severely for fighting.
-a,59,r59,c,NonIsland,match,Strong,Hockey is sometimes a very rough sport.,There was a hockey player who a spectator thought that the referees penalized him severely for fighting.
-b,59,r59,d,NonIsland,mismatch,Strong,Hockey is sometimes a very rough sport.,There was a hockey player who a spectator thought that the referees penalized her severely for fighting.
-d,60,r60,a,Island,match,Weak,Many people are too busy to do housework.,There was a maid who a visitor wondered whether the homeowners thanked her properly for cleaning up.
-a,60,r60,b,Island,mismatch,Weak,Many people are too busy to do housework.,There was a maid who a visitor wondered whether the homeowners thanked him properly for cleaning up.
-b,60,r60,c,NonIsland,match,Weak,Many people are too busy to do housework.,There was a maid who a visitor believed that the homeowners thanked her properly for cleaning up.
-c,60,r60,d,NonIsland,mismatch,Weak,Many people are too busy to do housework.,There was a maid who a visitor believed that the homeowners thanked him properly for cleaning up.
+a,41,r41,a,Island,match,Strong,Flying with a baby is tough on everyone.,There was a flight attendant who a father was worried because a crying baby distressed him tremendously during the descent.
+b,41,r41,b,Island,mismatch,Strong,Flying with a baby is tough on everyone.,There was a flight attendant who a father was worried because a crying baby distressed her tremendously during the descent.
+c,41,r41,c,NonIsland,match,Strong,Flying with a baby is tough on everyone.,There was a flight attendant who a father thought that a crying baby distressed him tremendously during the descent.
+d,41,r41,d,NonIsland,mismatch,Strong,Flying with a baby is tough on everyone.,There was a flight attendant who a father thought that a crying baby distressed her tremendously during the descent.
+b,42,r42,a,Island,match,Weak,Universites are recruiting high school athletes.,There was a player who a brother wondered whether a recruiter contacted him recently about a university scholarship.
+c,42,r42,b,Island,mismatch,Weak,Universites are recruiting high school athletes.,There was a player who a brother wondered whether a recruiter contacted her recently about a university scholarship.
+d,42,r42,c,NonIsland,match,Weak,Universites are recruiting high school athletes.,There was a player who a brother believed that a recruiter contacted him recently about a university scholarship.
+a,42,r42,d,NonIsland,mismatch,Weak,Universites are recruiting high school athletes.,There was a player who a brother believed that a recruiter contacted her recently about a university scholarship.
+c,43,r43,a,Island,match,Strong,Crime rates are high in this neighborhood.,There was a thief who a grandfather was wary because the police chased him dangerously down the busy street.
+d,43,r43,b,Island,mismatch,Strong,Crime rates are high in this neighborhood.,There was a thief who a grandfather was wary because the police chased her dangerously down the busy street.
+a,43,r43,c,NonIsland,match,Strong,Crime rates are high in this neighborhood.,There was a thief who a grandfather said that the police chased him dangerously down the busy street.
+b,43,r43,d,NonIsland,mismatch,Strong,Crime rates are high in this neighborhood.,There was a thief who a grandfather said that the police chased her dangerously down the busy street.
+d,44,r44,a,Island,match,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a neighbor who a landlady asked whether the investor called her this week about a development project.
+a,44,r44,b,Island,mismatch,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a neighbor who a landlady asked whether the investor called him this week about a development project.
+b,44,r44,c,NonIsland,match,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a neighbor who a landlady thought that the investor called her this week about a development project.
+c,44,r44,d,NonIsland,mismatch,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a neighbor who a landlady thought that the investor called him this week about a development project.
+a,45,r45,a,Island,match,Strong,There are questions about what's going on at the local church.,There was a churchgoer who a priest was upset because a whistleblower wrote him secretly about a scandal.
+b,45,r45,b,Island,mismatch,Strong,There are questions about what's going on at the local church.,There was a churchgoer who a priest was upset because a whistleblower wrote her secretly about a scandal.
+c,45,r45,c,NonIsland,match,Strong,There are questions about what's going on at the local church.,There was a churchgoer who a priest believed that a whistleblower wrote him secretly about a scandal.
+d,45,r45,d,NonIsland,mismatch,Strong,There are questions about what's going on at the local church.,There was a churchgoer who a priest believed that a whistleblower wrote her secretly about a scandal.
+b,46,r46,a,Island,match,Weak,Getting meals at school is important for lots of kids.,There was a volunteer who a lunchlady wondered whether the students appreciated her for the extra cookies.
+c,46,r46,b,Island,mismatch,Weak,Getting meals at school is important for lots of kids.,There was a volunteer who a lunchlady wondered whether the students appreciated him for the extra cookies.
+d,46,r46,c,NonIsland,match,Weak,Getting meals at school is important for lots of kids.,There was a volunteer who a lunchlady said that the students appreciated her for the extra cookies.
+a,46,r46,d,NonIsland,mismatch,Weak,Getting meals at school is important for lots of kids.,There was a volunteer who a lunchlady said that the students appreciated him for the extra cookies.
+c,47,r47,a,Island,match,Strong,The movie industry can be unforgiving.,There was an assistant who a stuntman was distracted because the actors criticized him unjustly on the set.
+d,47,r47,b,Island,mismatch,Strong,The movie industry can be unforgiving.,There was an assistant who a stuntman was distracted because the actors criticized her unjustly on the set.
+a,47,r47,c,NonIsland,match,Strong,The movie industry can be unforgiving.,There was an assistant who a stuntman believed that the actors criticized him unjustly on the set.
+b,47,r47,d,NonIsland,mismatch,Strong,The movie industry can be unforgiving.,There was an assistant who a stuntman believed that the actors criticized her unjustly on the set.
+d,48,r48,a,Island,match,Weak,It's hard to be successful in politics without allies.,There was a judge who a congresswoman wondered whether the senate members accepted her with open arms.
+a,48,r48,b,Island,mismatch,Weak,It's hard to be successful in politics without allies.,There was a judge who a congresswoman wondered whether the senate members accepted him with open arms.
+b,48,r48,c,NonIsland,match,Weak,It's hard to be successful in politics without allies.,There was a judge who a congresswoman thought that the senate members accepted her with open arms.
+c,48,r48,d,NonIsland,mismatch,Weak,It's hard to be successful in politics without allies.,There was a judge who a congresswoman thought that the senate members accepted him with open arms.
+a,49,r49,a,Island,match,Strong,Some people can't take a joke.,There was a servant who a squire consoled because a jester mocked him ruthlessly at dinner.
+b,49,r49,b,Island,mismatch,Strong,Some people can't take a joke.,There was a servant who a squire consoled because a jester mocked her ruthlessly at dinner.
+c,49,r49,c,NonIsland,match,Strong,Some people can't take a joke.,There was a servant who a squire recalled that a jester mocked him ruthlessly at dinner.
+d,49,r49,d,NonIsland,mismatch,Strong,Some people can't take a joke.,There was a servant who a squire recalled that a jester mocked her ruthlessly at dinner.
+b,50,r50,a,Island,match,Weak,There were several people at a dangerous intersection.,There was a pedestrian who a woman wondered whether car drivers saw her clearly on the sidewalk.
+c,50,r50,b,Island,mismatch,Weak,There were several people at a dangerous intersection.,There was a pedestrian who a woman wondered whether car drivers saw him clearly on the sidewalk.
+d,50,r50,c,NonIsland,match,Weak,There were several people at a dangerous intersection.,There was a pedestrian who a woman hoped that car drivers saw her clearly on the sidewalk.
+a,50,r50,d,NonIsland,mismatch,Weak,There were several people at a dangerous intersection.,There was a pedestrian who a woman hoped that car drivers saw him clearly on the sidewalk.
+c,51,r51,a,Island,match,Strong,It was a close football game.,There was a spectator who a boy was mad because security asked him suddenly to leave.
+d,51,r51,b,Island,mismatch,Strong,It was a close football game.,There was a spectator who a boy was mad because security asked her suddenly to leave.
+a,51,r51,c,NonIsland,match,Strong,It was a close football game.,There was a spectator who a boy heard that security asked him suddenly to leave.
+b,51,r51,d,NonIsland,mismatch,Strong,It was a close football game.,There was a spectator who a boy heard that security asked her suddenly to leave.
+d,52,r52,a,Island,match,Weak,The high school track championship was coming to an end.,There was a runner who a father wondered whether a college offered him a full scholarship for next year.
+a,52,r52,b,Island,mismatch,Weak,The high school track championship was coming to an end.,There was a runner who a father wondered whether a college offered her a full scholarship for next year.
+b,52,r52,c,NonIsland,match,Weak,The high school track championship was coming to an end.,There was a runner who a father hoped that a college offered him a full scholarship for next year.
+c,52,r52,d,NonIsland,mismatch,Weak,The high school track championship was coming to an end.,There was a runner who a father hoped that a college offered her a full scholarship for next year.
+a,53,r53,a,Island,match,Strong,There was a new case the department was investigating.,There was a journalist who a policeman was impressed because the city thanked him publicly for cracking the case.
+b,53,r53,b,Island,mismatch,Strong,There was a new case the department was investigating.,There was a journalist who a policeman was impressed because the city thanked her publicly for cracking the case.
+c,53,r53,c,NonIsland,match,Strong,There was a new case the department was investigating.,There was a journalist who a policeman said that the city thanked him publicly for cracking the case.
+d,53,r53,d,NonIsland,mismatch,Strong,There was a new case the department was investigating.,There was a journalist who a policeman said that the city thanked her publicly for cracking the case.
+b,54,r54,a,Island,match,Strong,A big dinner was held for everyone at the palace.,There was a courtier who a jester was amused because the jokes entertained him spectactularly at the dinner. 
+c,54,r54,b,Island,mismatch,Strong,A big dinner was held for everyone at the palace.,There was a courtier who a jester was amused because the jokes entertained her spectactularly at the dinner. 
+d,54,r54,c,NonIsland,match,Strong,A big dinner was held for everyone at the palace.,There was a courtier who a jester believed that the jokes entertained him spectactularly at the dinner. 
+a,54,r54,d,NonIsland,mismatch,Strong,A big dinner was held for everyone at the palace.,There was a courtier who a jester believed that the jokes entertained her spectactularly at the dinner. 
+c,55,r55,a,Island,match,Strong,There had been a concert in the stadium the other day.,There was a performer who a baritone was impressed because the magazines commended him greatly for the amazing solo.
+d,55,r55,b,Island,mismatch,Strong,There had been a concert in the stadium the other day.,There was a performer who a baritone was impressed because the magazines commended her greatly for the amazing solo.
+a,55,r55,c,NonIsland,match,Strong,There had been a concert in the stadium the other day.,There was a performer who a baritone said that the magazines commended him greatly for the amazing solo.
+b,55,r55,d,NonIsland,mismatch,Strong,There had been a concert in the stadium the other day.,There was a performer who a baritone said that the magazines commended her greatly for the amazing solo.
+d,56,r56,a,Island,match,Weak,A messy situation was uncovered by the police.,There was a detective who an old man wondered whether the real criminal blackmailed him illegally for the crime.
+a,56,r56,b,Island,mismatch,Weak,A messy situation was uncovered by the police.,There was a detective who an old man wondered whether the real criminal blackmailed her illegally for the crime.
+b,56,r56,c,NonIsland,match,Weak,A messy situation was uncovered by the police.,There was a detective who an old man said that the real criminal blackmailed him illegally for the crime.
+c,56,r56,d,NonIsland,mismatch,Weak,A messy situation was uncovered by the police.,There was a detective who an old man said that the real criminal blackmailed her illegally for the crime.
+a,57,r57,a,Island,match,Strong,There had been a fire in the neighborhood last week.,There was a paramedic who a housewife was pleased because the newspapers praised her highly for responding quickly.
+b,57,r57,b,Island,mismatch,Strong,There had been a fire in the neighborhood last week.,There was a paramedic who a housewife was pleased because the newspapers praised him highly for responding quickly.
+c,57,r57,c,NonIsland,match,Strong,There had been a fire in the neighborhood last week.,There was a paramedic who a housewife said that the newspapers praised her highly for responding quickly.
+d,57,r57,d,NonIsland,mismatch,Strong,There had been a fire in the neighborhood last week.,There was a paramedic who a housewife said that the newspapers praised him highly for responding quickly.
+b,58,r58,a,Island,match,Weak,Summer blockbusters are expensive to make.,There was a celebrity who a cameraman speculated whether the production staff paid him extravagantly for the role.
+c,58,r58,b,Island,mismatch,Weak,Summer blockbusters are expensive to make.,There was a celebrity who a cameraman speculated whether the production staff paid her extravagantly for the role.
+d,58,r58,c,NonIsland,match,Weak,Summer blockbusters are expensive to make.,There was a celebrity who a cameraman said that the production staff paid him extravagantly for the role.
+a,58,r58,d,NonIsland,mismatch,Weak,Summer blockbusters are expensive to make.,There was a celebrity who a cameraman said that the production staff paid her extravagantly for the role.
+c,59,r59,a,Island,match,Strong,Tennis is sometimes a very intense sport.,There was a player who a ballboy was enraged because the referees penalized him severely for swearing.
+d,59,r59,b,Island,mismatch,Strong,Tennis is sometimes a very intense sport.,There was a player who a ballboy was enraged because the referees penalized her severely for swearing.
+a,59,r59,c,NonIsland,match,Strong,Tennis is sometimes a very intense sport.,There was a player who a ballboy thought that the referees penalized him severely for swearing.
+b,59,r59,d,NonIsland,mismatch,Strong,Tennis is sometimes a very intense sport.,There was a player who a ballboy thought that the referees penalized her severely for swearing.
+d,60,r60,a,Island,match,Weak,Many people are too busy to do housework.,There was a cleaner who a woman wondered whether the homeowners thanked her properly for cleaning up.
+a,60,r60,b,Island,mismatch,Weak,Many people are too busy to do housework.,There was a cleaner who a woman wondered whether the homeowners thanked him properly for cleaning up.
+b,60,r60,c,NonIsland,match,Weak,Many people are too busy to do housework.,There was a cleaner who a woman believed that the homeowners thanked her properly for cleaning up.
+c,60,r60,d,NonIsland,mismatch,Weak,Many people are too busy to do housework.,There was a cleaner who a woman believed that the homeowners thanked him properly for cleaning up.
 a,61,f61,f,filler,filler,good,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock."
 a,62,f62,f,filler,filler,weird,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.
 a,63,f63,f,filler,filler,good,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. 
