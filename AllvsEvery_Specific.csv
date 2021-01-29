@@ -115,42 +115,42 @@ a,29,r29,a,Island,match,Weak,The wedding party seemed to be upset.,There was an 
 b,29,r29,b,Island,mismatch,Weak,The wedding party seemed to be upset.,There was an assistant who a bridesmaid wondered whether the florists embarrassed him needlessly before the wedding.,Dennis
 c,29,r29,c,NonIsland,match,Weak,The wedding party seemed to be upset.,There was an assistant who a bridesmaid believed that the florists embarrassed her needlessly before the wedding.,Dennis
 d,29,r29,d,NonIsland,mismatch,Weak,The wedding party seemed to be upset.,There was an assistant who a bridesmaid believed that the florists embarrassed him needlessly before the wedding.,Dennis
-b,30,r30,a,Island,match,Weak,Weddings can put people under a lot of stress.,There was an officiant who an usher asked whether the groomsmen insulted him quietly at the altar.,Jesse
-c,30,r30,b,Island,mismatch,Weak,Weddings can put people under a lot of stress.,There was an officiant who an usher asked whether the groomsmen insulted her quietly at the altar.,Jesse
-d,30,r30,c,NonIsland,match,Weak,Weddings can put people under a lot of stress.,There was an officiant who an usher believed that the groomsmen insulted him quietly at the altar.,Jesse
-a,30,r30,d,NonIsland,mismatch,Weak,Weddings can put people under a lot of stress.,There was an officiant who an usher believed that the groomsmen insulted her quietly at the altar.,Jesse
-c,31,r31,a,Island,match,Weak,Children can get bored at weddings.,There was a ring bearer who a grandmother inquired whether the caretakers entertained her easily during the reception. ,Jesse
-d,31,r31,b,Island,mismatch,Weak,Children can get bored at weddings.,There was a ring bearer who a grandmother inquired whether the caretakers entertained him easily during the reception. ,Jesse
-a,31,r31,c,NonIsland,match,Weak,Children can get bored at weddings.,There was a ring bearer who a grandmother believed that the caretakers entertained her easily during the reception. ,Jesse
-b,31,r31,d,NonIsland,mismatch,Weak,Children can get bored at weddings.,There was a ring bearer who a grandmother believed that the caretakers entertained him easily during the reception.,Jesse
+b,30,r30,a,Island,match,Weak,Weddings can put people under a lot of stress.,There was a relative who an usher asked whether the groomsmen insulted him quietly at the altar.,Jesse
+c,30,r30,b,Island,mismatch,Weak,Weddings can put people under a lot of stress.,There was a relative who an usher asked whether the groomsmen insulted her quietly at the altar.,Jesse
+d,30,r30,c,NonIsland,match,Weak,Weddings can put people under a lot of stress.,There was a relative who an usher believed that the groomsmen insulted him quietly at the altar.,Jesse
+a,30,r30,d,NonIsland,mismatch,Weak,Weddings can put people under a lot of stress.,There was a relative who an usher believed that the groomsmen insulted her quietly at the altar.,Jesse
+c,31,r31,a,Island,match,Weak,Children can get bored at weddings.,There was a toddler who a grandmother inquired whether the caretakers entertained her easily during the reception. ,Jesse
+d,31,r31,b,Island,mismatch,Weak,Children can get bored at weddings.,There was a toddler who a grandmother inquired whether the caretakers entertained him easily during the reception. ,Jesse
+a,31,r31,c,NonIsland,match,Weak,Children can get bored at weddings.,There was a toddler who a grandmother believed that the caretakers entertained her easily during the reception. ,Jesse
+b,31,r31,d,NonIsland,mismatch,Weak,Children can get bored at weddings.,There was a toddler who a grandmother believed that the caretakers entertained him easily during the reception.,Jesse
 d,32,r32,a,Island,match,Weak,There was an incident at the campsite.,There was a camper who a boy scout speculated whether the troop leader disciplined him rigorously for no reason.,Jesse
 a,32,r32,b,Island,mismatch,Weak,There was an incident at the campsite.,There was a camper who a boy scout speculated whether the troop leader disciplined her rigorously for no reason.,Jesse
-b,32,r32,c,NonIsland,match,Weak,There was an incident at the campsite.,There was a camper who a boyscout thought that the troop leader disciplined him rigorously for no reason.,Jesse
-c,32,r32,d,NonIsland,mismatch,Weak,There was an incident at the campsite.,There was a camper who a boyscout thought that the troop leader disciplined her rigorously for no reason.,Jesse
-a,33,r33,a,Island,match,Strong,A brilliant resume can pay off.,There was a man who an intern was amazed because the managers hired him immediately without an interview.,Sander
-b,33,r33,b,Island,mismatch,Strong,A brilliant resume can pay off.,There was a man who an intern was amazed because the managers hired her immediately without an interview.,Sander
-c,33,r33,c,NonIsland,match,Strong,A brilliant resume can pay off.,There was a man who an intern thought that the managers hired him immediately without an interview.,Sander
-d,33,r33,d,NonIsland,mismatch,Strong,A brilliant resume can pay off.,There was a man who an intern thought that the managers hired her immediately without an interview.,Sander
-b,34,r34,a,Island,match,Strong,Speed traps are becoming common in the city.,There was a woman who a driver was surprised because the police arrested her for speeding last night.,Sander
-c,34,r34,b,Island,mismatch,Strong,Speed traps are becoming common in the city.,There was a woman who a driver was surprised because the police arrested him for speeding last night.,Sander
-d,34,r34,c,NonIsland,match,Strong,Speed traps are becoming common in the city.,There was a woman who a driver believed that the police arrested her for speeding last night.,Sander
-a,34,r34,d,NonIsland,mismatch,Strong,Speed traps are becoming common in the city.,There was a woman who a driver believed that the police arrested him for speeding last night.,Sander
-c,35,r35,a,Island,match,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague was distressed because the cooks criticized her for no reason yesterday.,Sander
-d,35,r35,b,Island,mismatch,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague was distressed because the cooks criticized him for no reason yesterday.,Sander
-a,35,r35,c,NonIsland,match,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague said that the cooks criticized her for no reason yesterday.,Sander
-b,35,r35,d,NonIsland,mismatch,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague said that the cooks criticized him for no reason yesterday.,Sander
-d,36,r36,a,Island,match,Strong,Working at a hotel is not fun.,There was a hostess who a custodian was upset because the customers harassed her constantly last week.,Kier
-a,36,r36,b,Island,mismatch,Strong,Working at a hotel is not fun.,There was a hostess who a custodian was upset because the customers harassed him constantly last week.,Kier
-b,36,r36,c,NonIsland,match,Strong,Working at a hotel is not fun.,There was a hostess who a custodian heard that the customers harassed her constantly last week.,Kier
-c,36,r36,d,NonIsland,mismatch,Strong,Working at a hotel is not fun.,There was a hostess who a custodian heard that the customers harassed him constantly last week.,Kier
-a,37,r37,a,Island,match,Weak,Show business is tough.,There was an actress who an agent wondered whether the producers despised her vehemently for good reason.,Kier
-b,37,r37,b,Island,mismatch,Weak,Show business is tough.,There was an actress who an agent wondered whether the producers despised him vehemently for good reason.,Kier
-c,37,r37,c,NonIsland,match,Weak,Show business is tough.,There was an actress who an agent thought that the producers despised her vehemently for good reason.,Kier
-d,37,r37,d,NonIsland,mismatch,Weak,Show business is tough.,There was an actress who an agent thought that the producers despised him vehemently for good reason.,Kier
-b,38,r38,a,Island,match,Weak,Good parent volunteers are hard to find.,There was a mother who a teacher inquired whether the children liked her a lot with no reservation.,Kier
-c,38,r38,b,Island,mismatch,Weak,Good parent volunteers are hard to find.,There was a mother who a teacher inquired whether the children liked him a lot with no reservation.,Kier
-d,38,r38,c,NonIsland,match,Weak,Good parent volunteers are hard to find.,There was a mother who a teacher said that the children liked her a lot with no reservation.,Kier
-a,38,r38,d,NonIsland,mismatch,Weak,Good parent volunteers are hard to find.,There was a mother who a teacher said that the children liked him a lot with no reservation.,Kier
+b,32,r32,c,NonIsland,match,Weak,There was an incident at the campsite.,There was a camper who a boy scout thought that the troop leader disciplined him rigorously for no reason.,Jesse
+c,32,r32,d,NonIsland,mismatch,Weak,There was an incident at the campsite.,There was a camper who a boy scout thought that the troop leader disciplined her rigorously for no reason.,Jesse
+a,33,r33,a,Island,match,Strong,A brilliant resume can pay off.,There was an intern who a salesman was amazed because the managers hired him immediately without an interview.,Sander
+b,33,r33,b,Island,mismatch,Strong,A brilliant resume can pay off.,There was an intern who a salesman was amazed because the managers hired her immediately without an interview.,Sander
+c,33,r33,c,NonIsland,match,Strong,A brilliant resume can pay off.,There was an intern who a salesman thought that the managers hired him immediately without an interview.,Sander
+d,33,r33,d,NonIsland,mismatch,Strong,A brilliant resume can pay off.,There was an intern who a salesman thought that the managers hired her immediately without an interview.,Sander
+b,34,r34,a,Island,match,Strong,Speed traps are becoming common in the city.,There was a driver who a woman was surprised because the police arrested her for speeding last night.,Sander
+c,34,r34,b,Island,mismatch,Strong,Speed traps are becoming common in the city.,There was a driver who a woman was surprised because the police arrested him for speeding last night.,Sander
+d,34,r34,c,NonIsland,match,Strong,Speed traps are becoming common in the city.,There was a driver who a woman believed that the police arrested her for speeding last night.,Sander
+a,34,r34,d,NonIsland,mismatch,Strong,Speed traps are becoming common in the city.,There was a driver who a woman believed that the police arrested him for speeding last night.,Sander
+c,35,r35,a,Island,match,Strong,Working at a restaurant can be nerve-wracking.,There was a colleague who a waitress was distressed because the cooks criticized her for no reason yesterday.,Sander
+d,35,r35,b,Island,mismatch,Strong,Working at a restaurant can be nerve-wracking.,There was a colleague who a waitress was distressed because the cooks criticized him for no reason yesterday.,Sander
+a,35,r35,c,NonIsland,match,Strong,Working at a restaurant can be nerve-wracking.,There was a colleague who a waitress said that the cooks criticized her for no reason yesterday.,Sander
+b,35,r35,d,NonIsland,mismatch,Strong,Working at a restaurant can be nerve-wracking.,There was a colleague who a waitress said that the cooks criticized him for no reason yesterday.,Sander
+d,36,r36,a,Island,match,Strong,Working at a hotel is not fun.,There was a custodian who a hostess was upset because the customers harassed her constantly last week.,Kier
+a,36,r36,b,Island,mismatch,Strong,Working at a hotel is not fun.,There was a custodian who a hostess was upset because the customers harassed him constantly last week.,Kier
+b,36,r36,c,NonIsland,match,Strong,Working at a hotel is not fun.,There was a custodian who a hostess heard that the customers harassed her constantly last week.,Kier
+c,36,r36,d,NonIsland,mismatch,Strong,Working at a hotel is not fun.,There was a custodian who a hostess heard that the customers harassed him constantly last week.,Kier
+a,37,r37,a,Island,match,Weak,Show business is tough.,There was an agent who an actress wondered whether the producers despised her vehemently for good reason.,Kier
+b,37,r37,b,Island,mismatch,Weak,Show business is tough.,There was an agent who an actress wondered whether the producers despised him vehemently for good reason.,Kier
+c,37,r37,c,NonIsland,match,Weak,Show business is tough.,There was an agent who an actress thought that the producers despised her vehemently for good reason.,Kier
+d,37,r37,d,NonIsland,mismatch,Weak,Show business is tough.,There was an agent who an actress thought that the producers despised him vehemently for good reason.,Kier
+b,38,r38,a,Island,match,Weak,Good educators are a blessing.,There was a teacher who a mother inquired whether the children liked her a lot with no reservation.,Kier
+c,38,r38,b,Island,mismatch,Weak,Good educators are a blessing.,There was a teacher who a mother inquired whether the children liked him a lot with no reservation.,Kier
+d,38,r38,c,NonIsland,match,Weak,Good educators are a blessing.,There was a teacher who a mother said that the children liked her a lot with no reservation.,Kier
+a,38,r38,d,NonIsland,mismatch,Weak,Good educators are a blessing.,There was a teacher who a mother said that the children liked him a lot with no reservation.,Kier
 c,39,r39,a,Island,match,Weak,Banks are very careful about giving out loans.,There was a partner who a businessman asked whether the associates trusted him completely without doubt.,
 d,39,r39,b,Island,mismatch,Weak,Banks are very careful about giving out loans.,There was a partner who a businessman asked whether the associates trusted her completely without doubt.,
 a,39,r39,c,NonIsland,match,Weak,Banks are very careful about giving out loans.,There was a partner who a businessman thought that the associates trusted him completely without doubt.,
