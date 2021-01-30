@@ -51,10 +51,10 @@ a,13,t13,a,Def.plural,Def.plural,Def.plural,A group of businessmen were waiting 
 b,13,t13,b,All,All,All,A group of businessmen were waiting on the train platform at rush hour.,All the businessmen thought that they were the only one who would get a seat.
 c,13,t13,c,Every,Every,Every,A group of businessmen were waiting on the train platform at rush hour.,Every businessman thought that they were the only one who would get a seat.
 d,13,t13,d,Each,Each,Each,A group of businessmen were waiting on the train platform at rush hour.,Each businessman thought that they were the only one who would get a seat.
-b,14,t14,a,Def.plural,Def.plural,Def.plural,A bunch of fathers turned out early to save spots to view the parade through the city.,The fathers thought that they were the only one who had a good view.
-c,14,t14,b,All,All,All,A bunch of fathers turned out early to save spots to view the parade through the city.,All the fathers thought that they were the only one who had a good view.
-d,14,t14,c,Every,Every,Every,A bunch of fathers turned out early to save spots to view the parade through the city.,Every father thought that they were the only one who had a good view.
-a,14,t14,d,Each,Each,Each,A bunch of fathers turned out early to save spots to view the parade through the city.,Each father thought that they were the only one who had a good view.
+b,14,t14,a,Def.plural,Def.plural,Def.plural,A bunch of husbands turned out early to save spots to view the parade through the city.,The husbands thought that they were the only one who had a good view.
+c,14,t14,b,All,All,All,A bunch of husbands turned out early to save spots to view the parade through the city.,All the husbands thought that they were the only one who had a good view.
+d,14,t14,c,Every,Every,Every,A bunch of husbands turned out early to save spots to view the parade through the city.,Every husband thought that they were the only one who had a good view.
+a,14,t14,d,Each,Each,Each,A bunch of husbands turned out early to save spots to view the parade through the city.,Each husband thought that they were the only one who had a good view.
 c,15,t15,a,Def.plural,Def.plural,Def.plural,A group of grandfathers met at the park to compare gardening plans for next year.,The grandfathers thought that they were the only one who would plant tulips.
 d,15,t15,b,All,All,All,A group of grandfathers met at the park to compare gardening plans for next year.,All the grandfathers thought that they were the only one who would plant tulips.
 a,15,t15,c,Every,Every,Every,A group of grandfathers met at the park to compare gardening plans for next year.,Every grandfather thought that they were the only one who would plant tulips.
@@ -167,10 +167,10 @@ b,42,r42,a,Island,match,Weak,Universites are recruiting high school athletes.,Th
 c,42,r42,b,Island,mismatch,Weak,Universites are recruiting high school athletes.,There was a team member who a brother wondered whether a recruiter contacted her recently about a university scholarship.
 d,42,r42,c,NonIsland,match,Weak,Universites are recruiting high school athletes.,There was a team member who a brother believed that a recruiter contacted him recently about a university scholarship.
 a,42,r42,d,NonIsland,mismatch,Weak,Universites are recruiting high school athletes.,There was a team member who a brother believed that a recruiter contacted her recently about a university scholarship.
-c,43,r43,a,Island,match,Strong,Crime rates are high in this neighborhood.,There was a thief who a grandfather was wary because the police chased him dangerously down the busy street.
-d,43,r43,b,Island,mismatch,Strong,Crime rates are high in this neighborhood.,There was a thief who a grandfather was wary because the police chased her dangerously down the busy street.
-a,43,r43,c,NonIsland,match,Strong,Crime rates are high in this neighborhood.,There was a thief who a grandfather said that the police chased him dangerously down the busy street.
-b,43,r43,d,NonIsland,mismatch,Strong,Crime rates are high in this neighborhood.,There was a thief who a grandfather said that the police chased her dangerously down the busy street.
+c,43,r43,a,Island,match,Strong,Crime rates are high in this neighborhood.,There was a thief who an uncle was wary because the police chased him dangerously down the busy street.
+d,43,r43,b,Island,mismatch,Strong,Crime rates are high in this neighborhood.,There was a thief who an uncle was wary because the police chased her dangerously down the busy street.
+a,43,r43,c,NonIsland,match,Strong,Crime rates are high in this neighborhood.,There was a thief who an uncle said that the police chased him dangerously down the busy street.
+b,43,r43,d,NonIsland,mismatch,Strong,Crime rates are high in this neighborhood.,There was a thief who an uncle said that the police chased her dangerously down the busy street.
 d,44,r44,a,Island,match,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a neighbor who a landlady asked whether the investor called her this week about a development project.
 a,44,r44,b,Island,mismatch,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a neighbor who a landlady asked whether the investor called him this week about a development project.
 b,44,r44,c,NonIsland,match,Weak,Many of the city's suburbs are undergoing a makeover. ,There was a neighbor who a landlady thought that the investor called her this week about a development project.
