@@ -195,10 +195,10 @@ a,49,r49,a,Island,match,Strong,Some people can't take a joke.,There was a king w
 b,49,r49,b,Island,mismatch,Strong,Some people can't take a joke.,There was a king who a servant consoled because a jester mocked her ruthlessly at dinner.
 c,49,r49,c,NonIsland,match,Strong,Some people can't take a joke.,There was a king who a servant recalled that a jester mocked him ruthlessly at dinner.
 d,49,r49,d,NonIsland,mismatch,Strong,Some people can't take a joke.,There was a king who a servant recalled that a jester mocked her ruthlessly at dinner.
-b,50,r50,a,Island,match,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian wondered whether car drivers saw her clearly on the sidewalk.
-c,50,r50,b,Island,mismatch,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian wondered whether car drivers saw him clearly on the sidewalk.
-d,50,r50,c,NonIsland,match,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian hoped that car drivers saw her clearly on the sidewalk.
-a,50,r50,d,NonIsland,mismatch,Weak,There were several people at a dangerous intersection.,There was a woman who a pedestrian hoped that car drivers saw him clearly on the sidewalk.
+b,50,r50,a,Island,match,Weak,There were several people at a dangerous intersection.,There was a grandmother who a pedestrian wondered whether car drivers saw her clearly on the sidewalk.
+c,50,r50,b,Island,mismatch,Weak,There were several people at a dangerous intersection.,There was a grandmother who a pedestrian wondered whether car drivers saw him clearly on the sidewalk.
+d,50,r50,c,NonIsland,match,Weak,There were several people at a dangerous intersection.,There was a grandmother who a pedestrian hoped that car drivers saw her clearly on the sidewalk.
+a,50,r50,d,NonIsland,mismatch,Weak,There were several people at a dangerous intersection.,There was a grandmother who a pedestrian hoped that car drivers saw him clearly on the sidewalk.
 c,51,r51,a,Island,match,Strong,The crowd was getting unruly at the football game.,There was a boy who a spectator was mad because security asked him suddenly to leave.
 d,51,r51,b,Island,mismatch,Strong,The crowd was getting unruly at the football game.,There was a boy who a spectator was mad because security asked her suddenly to leave.
 a,51,r51,c,NonIsland,match,Strong,The crowd was getting unruly at the football game.,There was a boy who a spectator heard that security asked him suddenly to leave.
