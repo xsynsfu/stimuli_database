@@ -105,8 +105,8 @@ d,26,r26,c,NonIsland,match,Strong,Getting ready for a new baby is stressful.,The
 a,26,r26,d,NonIsland,mismatch,Strong,Getting ready for a new baby is stressful.,There was a midwife who a parent believed that the clinic fired him unexpectedly.
 c,27,r27,a,Island,match,Strong,People like to gossip about royalty.,There was a prince who a guest of honor was enraged because the servants mocked him at the party.
 d,27,r27,b,Island,mismatch,Strong,People like to gossip about royalty.,There was a prince who a guest of honor was enraged because the servants mocked her at the party.
-a,27,r27,c,NonIsland,match,Strong,People like to gossip about royalty.,There was a prince who a guest of honor knew that the servants mocked him at the party.
-b,27,r27,d,NonIsland,mismatch,Strong,People like to gossip about royalty.,There was a prince who a guest of honor knew that the servants mocked her at the party.
+a,27,r27,c,NonIsland,match,Strong,People like to gossip about royalty.,There was a prince who a guest of honor insisted that the servants mocked him at the party.
+b,27,r27,d,NonIsland,mismatch,Strong,People like to gossip about royalty.,There was a prince who a guest of honor insisted that the servants mocked her at the party.
 d,28,r28,a,Island,match,Strong,There was a lot of drama at the theater.,There was a ballerina who an audience member was angry because the choreographers humiliated her during the performance.
 a,28,r28,b,Island,mismatch,Strong,There was a lot of drama at the theater.,There was a ballerina who an audience member was angry because the choreographers humiliated him during the performance.
 b,28,r28,c,NonIsland,match,Strong,There was a lot of drama at the theater.,There was a ballerina who an audience member said that the choreographers humiliated her during the performance.
@@ -129,20 +129,20 @@ b,32,r32,c,NonIsland,match,Weak,There was an incident at the campsite.,There was
 c,32,r32,d,NonIsland,mismatch,Weak,There was an incident at the campsite.,There was a boy scout who a camper thought that the troop leader disciplined her for no reason.
 a,33,r33,a,Island,match,Strong,A brilliant resume can pay off.,There was a man who an intern was amazed because the managers hired him without an interview.
 b,33,r33,b,Island,mismatch,Strong,A brilliant resume can pay off.,There was a man who an intern was amazed because the managers hired her without an interview.
-c,33,r33,c,NonIsland,match,Strong,A brilliant resume can pay off.,There was a man who an intern was amazed that the managers hired him without an interview.
-d,33,r33,d,NonIsland,mismatch,Strong,A brilliant resume can pay off.,There was a man who an intern was amazed that the managers hired her without an interview.
+c,33,r33,c,NonIsland,match,Strong,A brilliant resume can pay off.,There was a man who an intern thought that the managers hired him without an interview.
+d,33,r33,d,NonIsland,mismatch,Strong,A brilliant resume can pay off.,There was a man who an intern thought that the managers hired her without an interview.
 b,34,r34,a,Island,match,Strong,Speed traps are becoming common in the city.,There was a woman who a driver was surprised because the police arrested her for speeding.
 c,34,r34,b,Island,mismatch,Strong,Speed traps are becoming common in the city.,There was a woman who a driver was surprised because the police arrested him for speeding.
-d,34,r34,c,NonIsland,match,Strong,Speed traps are becoming common in the city.,There was a woman who a driver was surprised that the police arrested her for speeding.
-a,34,r34,d,NonIsland,mismatch,Strong,Speed traps are becoming common in the city.,There was a woman who a driver was surprised that the police arrested him for speeding.
+d,34,r34,c,NonIsland,match,Strong,Speed traps are becoming common in the city.,There was a woman who a driver believed that the police arrested her for speeding.
+a,34,r34,d,NonIsland,mismatch,Strong,Speed traps are becoming common in the city.,There was a woman who a driver believed that the police arrested him for speeding.
 c,35,r35,a,Island,match,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague was distressed because the cooks criticized her for no reason.
 d,35,r35,b,Island,mismatch,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague was distressed because the cooks criticized him for no reason.
-a,35,r35,c,NonIsland,match,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague was distressed that the cooks criticized her for no reason.
-b,35,r35,d,NonIsland,mismatch,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague was distressed that the cooks criticized him for no reason.
+a,35,r35,c,NonIsland,match,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague said that the cooks criticized her for no reason.
+b,35,r35,d,NonIsland,mismatch,Strong,Working at a restaurant can be nerve-wracking.,There was a waitress who a colleague said that the cooks criticized him for no reason.
 d,36,r36,a,Island,match,Strong,Working at a hotel is not fun.,There was a hostess who a custodian was upset because the customers harassed her last week.
 a,36,r36,b,Island,mismatch,Strong,Working at a hotel is not fun.,There was a hostess who a custodian was upset because the customers harassed him last week.
-b,36,r36,c,NonIsland,match,Strong,Working at a hotel is not fun.,There was a hostess who a custodian was upset that the customers harassed her last week.
-c,36,r36,d,NonIsland,mismatch,Strong,Working at a hotel is not fun.,There was a hostess who a custodian was upset that the customers harassed him last week.
+b,36,r36,c,NonIsland,match,Strong,Working at a hotel is not fun.,There was a hostess who a custodian heard that the customers harassed her last week.
+c,36,r36,d,NonIsland,mismatch,Strong,Working at a hotel is not fun.,There was a hostess who a custodian heard that the customers harassed him last week.
 a,37,r37,a,Island,match,Weak,Show business is tough.,There was an actress who an agent wondered whether the producers despised her vehemently.
 b,37,r37,b,Island,mismatch,Weak,Show business is tough.,There was an actress who an agent wondered whether the producers despised him vehemently.
 c,37,r37,c,NonIsland,match,Weak,Show business is tough.,There was an actress who an agent thought that the producers despised her vehemently.
