@@ -191,10 +191,10 @@ d,48,r48,a,Island,match,Weak,It's hard to be successful in politics without alli
 a,48,r48,b,Island,mismatch,Weak,It's hard to be successful in politics without allies.,There was a judge who a congresswoman wondered whether the senate members accepted him with open arms.
 b,48,r48,c,NonIsland,match,Weak,It's hard to be successful in politics without allies.,There was a judge who a congresswoman thought that the senate members accepted her with open arms.
 c,48,r48,d,NonIsland,mismatch,Weak,It's hard to be successful in politics without allies.,There was a judge who a congresswoman thought that the senate members accepted him with open arms.
-a,49,r49,a,Island,match,Strong,Some people can't take a joke.,There was a servant who a squire consoled because a jester mocked him ruthlessly at dinner.
-b,49,r49,b,Island,mismatch,Strong,Some people can't take a joke.,There was a servant who a squire consoled because a jester mocked her ruthlessly at dinner.
-c,49,r49,c,NonIsland,match,Strong,Some people can't take a joke.,There was a servant who a squire recalled that a jester mocked him ruthlessly at dinner.
-d,49,r49,d,NonIsland,mismatch,Strong,Some people can't take a joke.,There was a servant who a squire recalled that a jester mocked her ruthlessly at dinner.
+a,49,r49,a,Island,match,Strong,Some people can't take a joke.,There was a servant who a squire consoled because the guests mocked him ruthlessly at dinner.
+b,49,r49,b,Island,mismatch,Strong,Some people can't take a joke.,There was a servant who a squire consoled because the guests mocked her ruthlessly at dinner.
+c,49,r49,c,NonIsland,match,Strong,Some people can't take a joke.,There was a servant who a squire recalled that the guests mocked him ruthlessly at dinner.
+d,49,r49,d,NonIsland,mismatch,Strong,Some people can't take a joke.,There was a servant who a squire recalled that the guests mocked her ruthlessly at dinner.
 b,50,r50,a,Island,match,Weak,There were several people at a dangerous intersection.,There was a pedestrian who a grandma wondered whether car drivers saw her clearly on the sidewalk.
 c,50,r50,b,Island,mismatch,Weak,There were several people at a dangerous intersection.,There was a pedestrian who a grandma wondered whether car drivers saw him clearly on the sidewalk.
 d,50,r50,c,NonIsland,match,Weak,There were several people at a dangerous intersection.,There was a pedestrian who a grandma hoped that car drivers saw her clearly on the sidewalk.
@@ -211,10 +211,10 @@ a,53,r53,a,Island,match,Strong,There was a new case the department was investiga
 b,53,r53,b,Island,mismatch,Strong,There was a new case the department was investigating.,There was a journalist who a policeman was impressed because the city thanked her publicly for cracking the case.
 c,53,r53,c,NonIsland,match,Strong,There was a new case the department was investigating.,There was a journalist who a policeman said that the city thanked him publicly for cracking the case.
 d,53,r53,d,NonIsland,mismatch,Strong,There was a new case the department was investigating.,There was a journalist who a policeman said that the city thanked her publicly for cracking the case.
-b,54,r54,a,Island,match,Strong,A big dinner was held for everyone at the palace.,There was a courtier who a jester was amused because the jokes entertained him spectactularly at the dinner. 
-c,54,r54,b,Island,mismatch,Strong,A big dinner was held for everyone at the palace.,There was a courtier who a jester was amused because the jokes entertained her spectactularly at the dinner. 
-d,54,r54,c,NonIsland,match,Strong,A big dinner was held for everyone at the palace.,There was a courtier who a jester believed that the jokes entertained him spectactularly at the dinner. 
-a,54,r54,d,NonIsland,mismatch,Strong,A big dinner was held for everyone at the palace.,There was a courtier who a jester believed that the jokes entertained her spectactularly at the dinner. 
+b,54,r54,a,Island,match,Strong,A big dinner was held for everyone at the palace.,There was an attendant who a nobleman was amused because the jokes entertained him spectactularly at the dinner. 
+c,54,r54,b,Island,mismatch,Strong,A big dinner was held for everyone at the palace.,There was an attendant who a nobleman was amused because the jokes entertained her spectactularly at the dinner. 
+d,54,r54,c,NonIsland,match,Strong,A big dinner was held for everyone at the palace.,There was an attendant who a nobleman believed that the jokes entertained him spectactularly at the dinner. 
+a,54,r54,d,NonIsland,mismatch,Strong,A big dinner was held for everyone at the palace.,There was an attendant who a nobleman believed that the jokes entertained her spectactularly at the dinner. 
 c,55,r55,a,Island,match,Strong,There had been a concert in the stadium the other day.,There was a performer who a baritone was impressed because the magazines commended him greatly for the amazing solo.
 d,55,r55,b,Island,mismatch,Strong,There had been a concert in the stadium the other day.,There was a performer who a baritone was impressed because the magazines commended her greatly for the amazing solo.
 a,55,r55,c,NonIsland,match,Strong,There had been a concert in the stadium the other day.,There was a performer who a baritone said that the magazines commended him greatly for the amazing solo.
