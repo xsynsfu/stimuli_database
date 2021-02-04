@@ -1,0 +1,61 @@
+﻿Item,item2,Condition,Factor1,Factor2,Factor3,GroupL,Context,TargetSentence
+1,t1,c,Every,Every,Every,c,A group of boys were talking about how the exam went.,Every boy thought that they were the only one who got an A plus.
+2,t2,b,All,All,All,c,A bunch of firemen  were bragging about who was the fastest. ,All the firemen said that they were the only one who could beat the record.
+3,t3,a,Def.plural,Def.plural,Def.plural,c,A group of busboys were talking about tips at the restaurant.,The busboys thought that they were the only one who got really bad tips.
+4,t4,d,Each,Each,Each,c,A group of men had applied for a prestigious scholarship at the university.,Each man believed that they were the only one who would get the award.
+5,t5,c,Every,Every,Every,c,A bunch of dads were competing to make the best cupcakes on a popular baking show.,Every dad hoped that they were the only one who used chocolate frosting.
+6,t6,b,All,All,All,c,A group of guys were deciding on a video game to play at the house party.,All the guys believed that they were the only one who hated playing Mario Kart.
+7,t7,a,Def.plural,Def.plural,Def.plural,c,A big group of cowboys decided to go for a ride despite the poor weather.,The cowboys thought that they were the only one who liked the pouring rain.
+8,t8,d,Each,Each,Each,c,A group of strongmen were competing in the final of the weightlifting championship.,Each strongman thought that they were the only one who broke a new record.
+9,t9,c,Every,Every,Every,c,A bunch of schoolboys made it to the TV showing of the national Spelling Bee.,Every schoolboy thought that they were the only one who could spell the hardest word.
+10,t10,b,All,All,All,c,A group of handymen had applied for one permanent position at the new shop.,All the handymen expected that they were the only one who would get the job offer.
+11,t11,a,Def.plural,Def.plural,Def.plural,c,A group of workmen offered to work during the Thanksgiving holiday.,The workmen thought that they were the only one who would want that shift.
+12,t12,d,Each,Each,Each,c,A group of salesmen were competing to win the employee of the year award.,Each salesman hoped that they were the only one who could win the award.
+13,t13,c,Every,Every,Every,c,A group of businessmen were waiting on the train platform at rush hour.,Every businessman thought that they were the only one who would get a seat.
+14,t14,b,All,All,All,c,A bunch of husbands turned out early to save spots to view the parade through the city.,All the husbands thought that they were the only one who had a good view.
+15,t15,a,Def.plural,Def.plural,Def.plural,c,A group of grandfathers met at the park to compare gardening plans for next year.,The grandfathers thought that they were the only one who would plant tulips.
+16,t16,d,Each,Each,Each,c,A group of young brothers rushed to get an exclusive discount on a new video game.,Each brother thought that they were the only one who would get the game.
+17,t17,c,Every,Every,Every,c,A bunch of sons were hoping to take over the family autoshop.,Every son thought that they were the only one who would be the next shop owner.
+18,t18,b,All,All,All,c,A group of baritones sang for a live audience to win a prize.,All the baritones thought that they were the only one who would get a prize.
+19,t19,a,Def.plural,Def.plural,Def.plural,c,A group of uncles were competing in a sack race at a family reunion.,The uncles thought that they were the only one who would win the race.
+20,t20,d,Each,Each,Each,c,A group of linesmen had bet on different teams to win the championship.,Each linesman thought that they were the only one who had chosen the winning team.
+21,t21,c,Every,Every,Every,c,A group of cameramen had submitted short films to the local festival.,Every cameraman expected that they were the only one who would be featured on opening night.
+22,t22,b,All,All,All,c,A bunch of dukes were talking about their future inheritance.,All the dukes hoped that they were the only one who would inherit a large tract of land.
+23,t23,a,Def.plural,Def.plural,Def.plural,c,A group of weathermen were discussing the latest climate change research.,The weathermen believed that they were the only one who would understand the research.
+24,t24,d,Each,Each,Each,c,A group of fishermen were comparing catches from the last summer.,Each fisherman thought that they were the only one who was not exaggerating the size of the catch.
+25,r25,c,NonIsland,match,Strong,c,There was a commotion at the police station.,There was an officer who a widower said that the city council acknowledged him rightfully last week.
+26,r26,b,Island,mismatch,Strong,c,Getting ready for a new baby is stressful.,There was a staff member who a mother was concerned because the clinic fired him unexpectedly this morning.
+27,r27,a,Island,match,Strong,c,People like to gossip about royal galas.,There was a guest who a prince was enraged because the servants mocked him relentlessly at the party.
+28,r28,d,NonIsland,mismatch,Strong,c,There was a lot of drama at the theater.,There was an audience member who a ballerina said that the choreographers humiliated him mercilessly during the performance.
+29,r29,c,NonIsland,match,Weak,c,The wedding party seemed to be upset.,There was an assistant who a bridesmaid believed that the florists embarrassed her needlessly before the wedding.
+30,r30,b,Island,mismatch,Weak,c,Weddings can put people under a lot of stress.,There was a relative who an usher asked whether the groomsmen insulted her quietly at the altar.
+31,r31,a,Island,match,Weak,c,Children can get bored at weddings.,There was a toddler who a grandmother inquired whether the caretakers entertained her easily during the reception.
+32,r32,d,NonIsland,mismatch,Weak,c,There was an incident at the campsite.,There was a camper who a boy scout thought that the troop leader disciplined her rigorously for no reason.
+33,r33,c,NonIsland,match,Strong,c,A brilliant resume can pay off.,There was an intern who a salesman thought that the managers hired him immediately without an interview.
+34,r34,b,Island,mismatch,Strong,c,Speed traps are becoming common in the city.,There was a driver who a woman was surprised because the police arrested him for speeding last night.
+35,r35,a,Island,match,Strong,c,Working at a restaurant can be nerve-wracking.,There was a colleague who a waitress was distressed because the cooks criticized her for no reason yesterday.
+36,r36,d,NonIsland,mismatch,Strong,c,Working at a hotel is not fun.,There was a server who a hostess heard that the customers harassed him constantly last week.
+37,r37,c,NonIsland,match,Weak,c,Show business is tough.,There was an agent who an actress thought that the producers despised her vehemently for good reason.
+38,r38,b,Island,mismatch,Weak,c,Good educators are a blessing.,There was a teacher who a mom inquired whether the children liked him a lot with no reservation.
+39,r39,a,Island,match,Weak,c,Banks are very careful about giving out loans.,There was a partner who a businessman asked whether the associates trusted him completely without doubt.
+40,r40,d,NonIsland,mismatch,Weak,c,Good help is hard to find.,There was an employee who a workman said that the company hired her directly from the agency.
+41,f41,f,filler,filler,good,c,Looking for shoes can be really hard.,"Each time you think you find the right one, it almost always ends up being out of stock."
+42,f42,f,filler,filler,weird,c,The final exam was really difficult.,Each question had some sort of trick that people thought it made easy to make a simple mistake.
+43,f43,f,filler,filler,good,c,There was a lot of noise in the diner. ,Each of the customers was complaining loudly about the service and the quality of the food. 
+44,f44,f,filler,filler,weird,c,The streets downtown are very busy.,Every pedestrian should be ready to be willing to prepare to be honked at.
+45,f45,f,filler,filler,good,c,Finding a reliable car to buy can be hard.,Every person who buys a used car should take it to a trusted mechanic first.
+46,f46,f,filler,filler,weird,c,The staff at the restaurant likes to make suggestions.,Every diner wanted to try the dish that no waiter thought anyone should.
+47,f47,f,filler,filler,good,c,There were a lot of whispers in the classroom.,All the children were quietly making fun of the teacher's new haircut.
+48,f48,f,filler,filler,weird,c,A bunch of restaurants were investigated by the health department.,All the experts said that those restaurants should be closed loudly.
+49,f49,f,filler,filler,good,c,Camping with a group of friends can be stressful.,All the things you normally do at home in privacy you have to do with people around.
+50,f50,f,filler,filler,weird,c,A group of parents were standing outside the school.,The parents standing outside the school were standing and waiting for the bell to ring.
+51,f51,f,filler,filler,good,c,A bunch of toddlers were running around.,There was one toddler who was wearing a spiderman costume.
+52,f52,f,filler,filler,good,c,A lot of dogs were playing in the park.,There was a very old dog who just sat in the middle of the park and slept.
+53,f53,f,filler,filler,good,c,A bunch of cars were parked in the lot.,"There was one car that had a license plate from Oregon, which seemed far away."
+54,f54,f,filler,filler,good,c,A group of construction workers were having coffee.,There was one construction worker who wanted to take a longer break but the boss would not allow it.
+55,f55,f,filler,filler,good,c,A bunch of people at the bank were chatting.,There was a teller who suspected that the manager was stealing.
+56,f56,f,filler,filler,gardenpath,c,A bunch of people were talking about the shops downtown.,The book store sold the first edition was closing down.
+57,f57,f,filler,filler,gardenpath,c,The car race was very exciting.,The expensive car sped around the track broke down after the race.
+58,f58,f,filler,filler,gardenpath,c,It was getting dark in the woods.,The exhausted hiker cautioned about the trail sat down by the river.
+59,f59,f,filler,filler,gardenpath,c,A lot of people were surprised by what happened during the trial.,The furious judge denied the motion walked away from the courthouse.
+60,f60,f,filler,filler,gardenpath,c,"After the lecture ended, some students hung around for a few minutes.",The young professor paid a compliment replied with a very kind thank you.
